@@ -66,12 +66,11 @@ export default {
     return {}
   },
   metaInfo() {
-    // let cc = this.$page.content.data.content.edges[0].node
-    let cc = { title: 'abc', headline: 'def' }
+    let content = this.$page.content.edges[0].node
     return {
-      title: cc.title,
+      title: content.title,
       meta: [
-        { key: 'description', name: 'description', content: cc.headline }
+        { key: 'description', name: 'description', content: content.headline }
       ]
     }
   }
