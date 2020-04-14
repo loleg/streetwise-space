@@ -1,16 +1,16 @@
 ---
-label: Documentation Page
+label: Content Page
 hide_body: false
 fields:
 - type: text
   name: title
   label: Title
-- type: datetime
-  name: date
-  label: Date
-  config:
-    date_format: MM/DD/YYYY
-    export_format: YYYY-MM-DD
+- type: text
+  name: headline
+  label: Headline
+- type: text
+  name: button
+  label: Button
 - type: text
   name: slug
   label: Slug

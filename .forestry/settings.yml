@@ -2,10 +2,17 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url:
 sections:
 - type: heading
   label: Content
+- type: directory
+  path: content
+  label: Content
+  create: all
+  match: "**/*"
+  templates:
+  - content-page
 - type: directory
   path: docs
   label: Docs

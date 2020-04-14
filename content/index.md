@@ -1,5 +1,4 @@
 ---
-id: 1
 slug: index
 title: Kooperationsprojekt Metropolitanraum Zürich
 headline: Es gibt tausende Karten – keine zeigt die Raumqualität aus Sicht der Bevölkerung. Ein Projekt im Metropolitanraum Zürich will dies nun ändern. Wie nehmen wir unseren Lebensraum wahr? Wie erleben wir die Atmosphäre eines Ortes, wo fühlen wir uns sicher, wo fühlen wir uns gut? Diese Fragen werden umso wichtiger, je mehr Menschen in städtischen Gebieten leben. Geht es nach der Raumplanung, so werden es immer mehr.
