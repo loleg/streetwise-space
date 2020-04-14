@@ -1,40 +1,49 @@
 <template>
   <Layout :sidebar="false">
     <div class="content">
-      <h1>{{ description }}</h1>
+
+      <h1>{{ $page.content.edges[0].node.title }}</h1>
 
       <p>
-        Es gibt tausende Karten – keine zeigt die Raumqualität aus Sicht der Bevölkerung. Ein Projekt im Metropolitanraum Zürich will dies nun ändern. Wie nehmen wir unseren Lebensraum wahr? Wie erleben wir die Atmosphäre eines Ortes, wo fühlen wir uns sicher, wo fühlen wir uns gut? Diese Fragen werden umso wichtiger, je mehr Menschen in städtischen Gebieten leben. Geht es nach der Raumplanung, so werden es immer mehr.
+        {{ $page.content.edges[0].node.headline }}
+
+        <g-link to="/getting-started">
+          {{ $page.content.edges[0].node.button }}
+        </g-link>
       </p>
+
       <center>
-        <g-image src="~/assets/img/ui-1.jpg" width="1280"/>
+        <g-image src="~/assets/img/ui-1.jpg" />
       </center>
-      <p>
-        Räume tun uns gut oder schaden uns – sie sind nie neutral. Das Projekt «Streetwise» im Metropolitanraum Zürich verwendet neue Ansätze. Es untersucht die alltägliche Bewertung von Orten durch die Bevölkerung und macht sie sichtbar. Streetwise misst die menschliche Wahrnehmung von räumlichen Situationen und verwendet hierfür die Methode des Crowdsourcing: Einer grossen Zahl von Personen werden Bildpaare des öffentlichen Raumes angezeigt.
-      </p><p>
-        Durch Anklicken eines Bildes geben diese jeweils eine Bewertung ab, womit ein Algorithmus trainiert wird. Durch eine sehr grosse Anzahl von Klicks lernt das System, Bilder selbstständig zu bewerten. So können schliesslich beliebige räumliche Situationen automatisch bewertet werden. Es entsteht die erste Karte der räumlichen Qualität in der Schweiz.
-      </p><p>
-        In unserem Projekt fragen wir zunächst nach der Einschätzung von räumlichen Situationen bezüglich deren Sicherheit.
-      </p>
-      <center>
-        <h1>
-          Unser Crowdsourcing startet am 11. Mai 2020. Wir brauchen dafür 50'000 Klicks – machen Sie mit?
-        </h1>
-        <p>
-          Dank dem Sponsoring von Swisscom können Sie ein iPhone 11 gewinnen! Die Umfrage dauert nur 5 Minuten.
-        </p>
-      </center>
+
+      <div class="markdown" v-html="$page.content.edges[0].node.content" />
 
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
         <Shortcut link="/getting-started" text="Starten" icon="play-icon" />
-        <Shortcut link="/theme-configuration" text="Hilfe" icon="sliders-icon" />
-        <Shortcut link="/editing-in-forestry" text="Kontakt" icon="eye-icon" />
+        <Shortcut link="/theme-configuration" text="Hilfe" icon="help-circle-icon" />
+        <Shortcut link="/editing-in-forestry" text="Kontakt" icon="mail-icon" />
       </nav>
       <GitLink class="git" size="large" />
     </div>
   </Layout>
 </template>
+
+<page-query>
+query content {
+  content: allContent(filter: {slug: {eq: "index"}}) {
+    edges {
+      node {
+        title
+        headline
+        button
+        image
+        content
+      }
+    }
+  }
+}
+</page-query>
 
 <static-query>
 query {
@@ -54,15 +63,15 @@ export default {
     Shortcut
   },
   data() {
-    return {
-      description: 'Kooperationsprojekt Metropolitanraum Zürich'
-    }
+    return {}
   },
   metaInfo() {
+    // let cc = this.$page.content.data.content.edges[0].node
+    let cc = { title: 'abc', headline: 'def' }
     return {
-      title: this.description,
+      title: cc.title,
       meta: [
-        { key: 'description', name: 'description', content: 'Streetwise misst die menschliche Wahrnehmung von räumlichen Situationen und verwendet hierfür die Methode des Crowdsourcing.' }
+        { key: 'description', name: 'description', content: cc.headline }
       ]
     }
   }
@@ -75,13 +84,33 @@ export default {
   flex-direction: column;
 }
 
+.content .g-image {
+  width: 100%;
+}
+
+blockquote {
+  border: 1px solid #999;
+  background: #f0f0f0;
+  padding: 5px;
+}
+
 h1 {
-  text-align: center;
-  max-width: 600px;
-  margin: 1.5em auto 1.5em;
 
   @include respond-above(md) {
     max-width: 1000px;
+  }
+
+  transform: scale(0.7);
+  text-align: left;
+  margin: 0px;
+  width: 1px;
+
+  @include respond-above(sm) {
+    width: auto;
+    text-align: center;
+    max-width: 600px;
+    margin: 1.5em auto 1.5em;
+    transform: none;
   }
 }
 

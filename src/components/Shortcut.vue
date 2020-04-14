@@ -10,13 +10,13 @@
 </template>
 
 <script>
-import { PlayIcon, SlidersIcon, EyeIcon } from 'vue-feather-icons'
+import { PlayIcon, HelpCircleIcon, MailIcon } from 'vue-feather-icons'
 
 export default {
   components: {
     PlayIcon,
-    SlidersIcon,
-    EyeIcon
+    HelpCircleIcon,
+    MailIcon
   },
   props: {
     link: {
@@ -38,15 +38,21 @@ export default {
 <style lang="scss" scoped>
 article {
     flex: 1 0;
-    border: 1px solid shade($sidebarBright, 10%);
     margin: 0 0 1em;
-    background: $sidebarBright;
+    border: 1px solid transparent;
+    background: transparent;
     padding: 2rem;
     border-radius: 3px;
     transition: background .15s ease-in-out, border-color .15s ease-in-out;
 
     @include respond-above(sm) {
       margin: 0 1em 0;
+    }
+
+    &:hover {
+      svg { color: blue; }
+      border: 1px solid shade($sidebarBright, 10%);
+      box-shadow: 3px 3px 3px $sidebarBright;
     }
 
     .dark & {

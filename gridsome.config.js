@@ -33,6 +33,12 @@ module.exports = {
           ]
         }
       }
+    },{
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'content/**/*.md',
+        typeName: 'Content',
+      }
     },
     {
       use: '@gridsome/plugin-google-analytics',
