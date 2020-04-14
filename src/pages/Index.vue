@@ -24,6 +24,11 @@
         <Shortcut link="/theme-configuration" text="Hilfe" icon="help-circle-icon" />
         <Shortcut link="/editing-in-forestry" text="Kontakt" icon="mail-icon" />
       </nav>
+
+      <h2 id="contact">{{ $page.contact.edges[0].node.title }}</h2>
+
+      <div class="markdown" v-html="$page.contact.edges[0].node.content" />
+
       <GitLink class="git" size="large" />
     </div>
   </Layout>
@@ -38,6 +43,14 @@ query content {
         headline
         button
         image
+        content
+      }
+    }
+  }
+  contact: allContent(filter: {slug: {eq: "contact"}}) {
+    edges {
+      node {
+        title
         content
       }
     }
@@ -91,6 +104,13 @@ blockquote {
   border: 1px solid #999;
   background: #f0f0f0;
   padding: 5px;
+}
+
+#contact {
+  border-top: 1px solid #999;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  width: 100%;
 }
 
 h1 {
