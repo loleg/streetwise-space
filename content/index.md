@@ -22,6 +22,6 @@ In unserem Projekt fragen wir zunächst nach der Einschätzung von räumlichen S
 
 </center>
 
-> <[img src="/logos/swisscom.jpg" align="right" width="140" hspace="20"](https://www.swisscom.ch/de/privatkunden.html)>
+> <[img src="/logos/swisscom.jpg" align="right" width="140" hspace="20"](https://swisscom.ch)>
 
 > Dank dem Sponsoring von [Swisscom](https://swisscom.ch) können Sie ein iPhone 11 gewinnen! Die Umfrage dauert nur 5 Minuten.
