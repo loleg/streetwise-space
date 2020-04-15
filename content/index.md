@@ -13,7 +13,7 @@ Räume haben einen positiven oder negativen Einfluss auf uns – sie verhalten s
 
 Durch Anklicken eines Bildes geben diese jeweils eine Bewertung ab, womit ein Algorithmus trainiert wird. Durch eine sehr grosse Anzahl von Klicks lernt das System, Bilder selbstständig zu bewerten. So können schliesslich beliebige räumliche Situationen automatisch bewertet werden. Es entsteht die erste Karte der räumlichen Qualität in der Schweiz.
 
-In unserem Projekt fragen wir zunächst nach der Einschätzung von räumlichen Situationen bezüglich deren Sicherheit.
+In unserem Projekt fragen wir zunächst nach deiner Einschätzung von räumlichen Situationen bezüglich deren Sicherheit.
 
 <center>
 
