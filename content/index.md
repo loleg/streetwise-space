@@ -18,10 +18,10 @@ In unserem Projekt fragen wir zunächst nach der Einschätzung von räumlichen S
 
 <center>
 
-## Unser Crowdsourcing startet am 11\. Mai 2020\. Wir brauchen dafür 50'000 Klicks – machen Sie mit?
+## Unser Crowdsourcing startet am 11. Mai 2020. Wir brauchen dafür 50'000 Klicks – machen Sie mit?
 
 </center>
 
-> <img src="/logos/swisscom.jpg" align="right" width="140" hspace="20">
+> <[img src="/logos/swisscom.jpg" align="right" width="140" hspace="20"](https://www.swisscom.ch/de/privatkunden.html)>
 
 > Dank dem Sponsoring von [Swisscom](https://swisscom.ch) können Sie ein iPhone 11 gewinnen! Die Umfrage dauert nur 5 Minuten.
