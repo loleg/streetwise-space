@@ -23,4 +23,5 @@ In unserem Projekt fragen wir zunächst nach deiner Einschätzung von räumliche
 
 > <img src="/logos/swisscom.jpg" align="right" width="140" hspace="20">
 
-> Dank dem Sponsoring von [Swisscom](https://swisscom.ch) kannst du ein iPhone 11 gewinnen! <br/> Die Umfrage dauert nur 5 Minuten.
+> Dank dem Sponsoring von [Swisscom](https://swisscom.ch) kannst du ein iPhone 11 gewinnen!  
+> Die Umfrage dauert nur 5 Minuten.
