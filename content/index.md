@@ -1,6 +1,6 @@
 ---
 slug: index
-title: Streetwise - ein Crowdsourcing zur räumlichen Wahrnehmung
+title: Willkommen bei Streetwise!
 headline: Es gibt tausende Karten – keine zeigt die Raumqualität aus Sicht der Bevölkerung.
   Wie nehmen wir unseren Lebensraum wahr? Wie erleben wir die Atmosphäre eines Ortes,
   wo fühlen wir uns sicher, wo fühlen wir uns gut? Diese Fragen werden umso wichtiger,
