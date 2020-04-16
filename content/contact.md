@@ -14,7 +14,7 @@ image:
 Laura Iseli, Projektleiterin ✉ laura.iseli@ivoag.ch
 
 <center>
-<a href="https://ivoag.ch/"><img src="/logos/ivo.png"></a>
+<a href="https://ivoag.ch/"><img src="/logos/ivo.png.jpg"></a>
 <a href="https://ethz.ch/"><img src="/logos/eth.png"></a>
 <a href="https://smartuse.ch/"><img src="/logos/smartuse.png"></a>
 <br>
