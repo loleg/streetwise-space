@@ -17,7 +17,7 @@ In unserem Projekt fragen wir zunächst nach deiner Einschätzung von räumliche
 
 <center>
 
-## Unser Crowdsourcing startet am 11. Mai 2020. Wir brauchen dafür 50'000 Klicks – machst du mit?
+## Unsere Crowdsourcing-Umfrage startet am 11. Mai 2020. Wir brauchen dafür 50'000 Klicks – machst du mit?
 
 </center>
 
