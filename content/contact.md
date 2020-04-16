@@ -11,7 +11,8 @@ image:
     Sternmattstrasse 3
     6005 Luzern
 
-Laura Iseli, Projektleiterin ✉ laura.iseli@ivoag.ch
+Laura Iseli, Projektleiterin   
+✉ laura.iseli@ivoag.ch
 
 <center>
 <a href="https://ivoag.ch/"><img src="/logos/ivo.png.jpg"></a>
