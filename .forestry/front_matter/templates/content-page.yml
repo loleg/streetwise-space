@@ -17,5 +17,3 @@ fields:
 - type: text
   name: slug
   label: Slug
-pages:
-- content/index.md

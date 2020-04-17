@@ -6,9 +6,11 @@ headline: Es gibt tausende Karten – keine zeigt die Raumqualität aus Sicht de
   wo fühlen wir uns sicher, wo fühlen wir uns gut? Diese Fragen werden umso wichtiger,
   je mehr Menschen in städtischen Gebieten leben.
 button: Crowdsourcing-Umfrage jetzt starten!
-keywords: Streetwise, Projekt, Kooperationsprojekt, MKZ, Metropolitanraum, Zürich, Crowdsourcing, Sicherheit, Umfrage, Verkehrssicherheit, Wohlbefinden
----
+image: "~/assets/img/ui-1.jpg"
+keywords: Streetwise, Projekt, Kooperationsprojekt, MKZ, Metropolitanraum, Zürich,
+  Crowdsourcing, Sicherheit, Umfrage, Verkehrssicherheit, Wohlbefinden
 
+---
 <center>
 
 ## Unsere Crowdsourcing-Umfrage startet am 11. Mai 2020.<br>Wir brauchen dafür 50'000 Klicks – machst du mit?
@@ -17,4 +19,4 @@ keywords: Streetwise, Projekt, Kooperationsprojekt, MKZ, Metropolitanraum, Züri
 
 </center>
 
-> **Dank dem Sponsoring von [Swisscom](https://swisscom.ch) kannst du ein iPhone 11 gewinnen! Die Umfrage dauert nur 5 Minuten.**
+> #### **Dank dem Sponsoring von** [**Swisscom**](https://swisscom.ch) **kannst du ein iPhone 11 gewinnen! Die Umfrage dauert nur 5 Minuten.**
