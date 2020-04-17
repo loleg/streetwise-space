@@ -7,7 +7,7 @@
       <p>
         {{ $page.content.edges[0].node.headline }}
 
-        <g-link to="/getting-started">
+        <g-link to="/start">
           {{ $page.content.edges[0].node.button }}
         </g-link>
       </p>
@@ -15,7 +15,6 @@
       <div class="markdown" v-html="$page.content.edges[0].node.content" />
 
       <nav>
-        <!-- To use other icons here, you need to import them in the Shortcut component -->
         <Shortcut link="/start" text="Starten" icon="play-icon" />
         <Shortcut link="/about" text="Information" icon="help-circle-icon" />
         <Shortcut link="/contact" text="Kontakt" icon="mail-icon" />
