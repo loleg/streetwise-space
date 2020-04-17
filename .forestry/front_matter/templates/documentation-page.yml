@@ -15,4 +15,4 @@ fields:
   name: slug
   label: Slug
 pages:
-- docs/disclaimer-wettbewerbsbedingungen.md
+- docs/disclaimer.md

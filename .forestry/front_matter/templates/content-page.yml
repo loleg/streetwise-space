@@ -12,7 +12,10 @@ fields:
   name: button
   label: Button
 - type: text
+  name: keywords
+  label: Keywords
+- type: text
   name: slug
   label: Slug
 pages:
-- docs/editing-in-forestry.md
+- content/index.md

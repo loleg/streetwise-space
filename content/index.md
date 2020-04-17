@@ -6,7 +6,7 @@ headline: Es gibt tausende Karten – keine zeigt die Raumqualität aus Sicht de
   wo fühlen wir uns sicher, wo fühlen wir uns gut? Diese Fragen werden umso wichtiger,
   je mehr Menschen in städtischen Gebieten leben.
 button: Crowdsourcing-Umfrage jetzt starten!
-
+keywords: Streetwise, Projekt, Kooperationsprojekt, MKZ, Metropolitanraum, Zürich, Crowdsourcing, Sicherheit, Umfrage, Verkehrssicherheit, Wohlbefinden
 ---
 
 <center>
