@@ -12,26 +12,24 @@
         </g-link>
       </p>
 
-      <center>
-        <g-image src="~/assets/img/ui-1.jpg" />
-      </center>
-
       <div class="markdown" v-html="$page.content.edges[0].node.content" />
 
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
-        <Shortcut link="/getting-started" text="Starten" icon="play-icon" />
-        <Shortcut link="/theme-configuration" text="Hilfe" icon="help-circle-icon" />
-        <Shortcut link="/editing-in-forestry" text="Kontakt" icon="mail-icon" />
+        <Shortcut link="/start" text="Starten" icon="play-icon" />
+        <Shortcut link="/about" text="Information" icon="help-circle-icon" />
+        <Shortcut link="/contact" text="Kontakt" icon="mail-icon" />
       </nav>
 
-      <hr>
-
-      <h2 id="contact">{{ $page.contact.edges[0].node.title }}</h2>
-
-      <div class="markdown" v-html="$page.contact.edges[0].node.content" />
-
-      <GitLink class="git" size="large" />
+      <div class="logos">
+        <a href="https://ivoag.ch/"><img src="/media/logo-ivo.jpg" style="height:100px; padding:20px"></a>
+        <a href="https://cividi.ch/"><img src="/media/logo-cividi.png" style="height:80px;"></a>
+        <a href="https://human-ist.unifr.ch/en/"><img src="/media/logo-human-ist.png"></a>
+        <a href="https://ethz.ch/"><img src="/media/logo-eth.png"></a>
+        <a href="https://luucy.ch/"><img src="/media/logo-luucy.png"></a>
+        <a href="https://metropolitanraum-zuerich.ch/"><img src="/media/logo-mrz.png"></a>
+        <a href="https://swisscom.ch/"><img src="/media/logo-swisscom.jpg"></a>
+      </div>
     </div>
   </Layout>
 </template>
@@ -44,15 +42,6 @@ query content {
         title
         headline
         button
-        image
-        content
-      }
-    }
-  }
-  contact: allContent(filter: {slug: {eq: "contact"}}) {
-    edges {
-      node {
-        title
         content
       }
     }
@@ -69,12 +58,10 @@ query {
 </static-query>
 
 <script>
-import GitLink from '~/components/GitLink.vue'
 import Shortcut from '~/components/Shortcut.vue'
 
 export default {
   components: {
-    GitLink,
     Shortcut
   },
   data() {
@@ -106,6 +93,14 @@ blockquote {
   border: 1px solid #999;
   background: #f0f0f0;
   padding: 5px;
+}
+
+.logos {
+  text-align: center;
+  img {
+    height: 110px;
+    margin: 10px 20px;
+  }
 }
 
 h1 {
