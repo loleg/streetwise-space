@@ -2,11 +2,11 @@
 title: Einführung
 date: 2020-04-07
 slug: start
----
 
+---
 ## Crowdsourcing startet am 11. Mai 2020
 
-_**Hintergrundinfo zum Kooperationsprojekt Streetwise**_  
+**_Hintergrundinfo zum Kooperationsprojekt Streetwise_**
 
 **Es gibt keine neutralen Räume**
 
