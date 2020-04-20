@@ -1,10 +1,9 @@
 ---
-title: Projektteam Kontaktieren
+title: Projektteam kontaktieren
 date: 2020-04-13
 slug: contact
 
 ---
-
 <pre>
 Streetwise
 c/o IVO Innenentwicklung AG
