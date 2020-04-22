@@ -1,17 +1,21 @@
 <template>
   <g-link to="/" class="logo" title="Back to home">
-    <transition name="theme">
-      <div v-if="color == 'dark'">
-        <g-image src="~/assets/img/logo-bright.svg" width="184" height="40" alt="logo" />
-      </div>
-    </transition>
-    <transition name="theme">
-      <div v-if="color == 'bright'">
-        <g-image src="~/assets/img/logo-dark.svg" width="184" height="40" alt="logo" />
-      </div>
-    </transition>
+    <g-image src="~/assets/img/logo-dark.svg" width="184" height="40" alt="logo" />
   </g-link>
 </template>
+
+<!--
+<transition name="theme">
+  <div v-if="color == 'dark'">
+    <g-image src="~/assets/img/logo-bright.svg" width="184" height="40" alt="logo" />
+  </div>
+</transition>
+<transition name="theme">
+  <div v-if="color == 'bright'">
+    <g-image src="~/assets/img/logo-dark.svg" width="184" height="40" alt="logo" />
+  </div>
+</transition>
+-->
 
 <script>
 export default {

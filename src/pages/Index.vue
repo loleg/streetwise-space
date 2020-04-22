@@ -23,9 +23,9 @@
       <div class="logos">
         <h5>Partner und Sponsoren</h5>
         <a href="https://metropolitanraum-zuerich.ch/"><img src="/media/logo-mrz.png"></a>
-        <a href="https://irl.ethz.ch/research/stl.html"><img src="/media/logo-STL.png"></a>
+        <a href="https://irl.ethz.ch/research/stl.html"><img src="/media/logo-STL.png" style="height:100px; padding:20px 0"></a>
         <a href="https://luucy.ch/"><img src="/media/logo-luucy.png"></a>
-        <a href="https://swisscom.ch/"><img src="/media/logo-swisscom.jpg"></a>
+        <a href="https://swisscom.ch/"><img src="/media/logo-swisscom.jpg" style="height:100px; padding:20px 0"></a>
         <h5>Projektentwicklung</h5>
         <a href="https://ivoag.ch/"><img src="/media/logo-ivo.jpg" style="height:100px; padding:20px"></a>
         <a href="https://cividi.ch/"><img src="/media/logo-cividi.png" style="height:80px;"></a>
@@ -113,7 +113,6 @@ h1 {
   transform: scale(0.7);
   text-align: left;
   margin: 0px;
-  width: 1px;
 
   @include respond-above(sm) {
     width: auto;
