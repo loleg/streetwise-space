@@ -1,8 +1,8 @@
 <template>
   <Layout>
-    <h1>
+    <h2>
       {{ $page.doc.title }}
-    </h1>
+    </h2>
      <div class="markdown" v-html="$page.doc.content" />
   </Layout>
 </template>

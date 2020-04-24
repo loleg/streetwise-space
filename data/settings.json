@@ -8,16 +8,16 @@
           "slug": "start"
         },
         {
-          "title": "Hintergrundinfo",
+          "title": "Hintergrund",
           "slug": "about"
+        },
+        {
+          "title": "Wettbewerb",
+          "slug": "disclaimer"
         },
         {
           "title": "Kontakt",
           "slug": "contact"
-        },
-        {
-          "title": "Wettbewerbsbedingungen",
-          "slug": "disclaimer"
         }
       ]
     }

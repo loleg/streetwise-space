@@ -6,11 +6,13 @@
 
       <p>
         {{ $page.content.edges[0].node.headline }}
+      </p>
 
-        <g-link to="/start">
+      <center>
+        <g-link to="/start" class="button">
           {{ $page.content.edges[0].node.button }}
         </g-link>
-      </p>
+      </center>
 
       <div class="markdown" v-html="$page.content.edges[0].node.content" />
 
@@ -25,10 +27,11 @@
         <a href="https://metropolitanraum-zuerich.ch/"><img src="/media/logo-mrz.png"></a>
         <a href="https://irl.ethz.ch/research/stl.html"><img src="/media/logo-STL.png" style="height:100px; padding:20px 0"></a>
         <a href="https://luucy.ch/"><img src="/media/logo-luucy.png"></a>
+        <a href="https://cividi.ch/"><img src="/media/logo-cividi.png" style="height:100px; padding:20px 0"></a>
         <a href="https://swisscom.ch/"><img src="/media/logo-swisscom.jpg" style="height:100px; padding:20px 0"></a>
         <h5>Projektentwicklung</h5>
         <a href="https://ivoag.ch/"><img src="/media/logo-ivo.jpg" style="height:100px; padding:20px"></a>
-        <a href="https://cividi.ch/"><img src="/media/logo-cividi.png" style="height:80px;"></a>
+        <a href="https://datalets.ch/"><img src="/media/logo-dataletsch.png" style="height:80px;"></a>
         <a href="https://human-ist.unifr.ch/en/"><img src="/media/logo-human-ist.png"></a>
       </div>
     </div>
@@ -88,6 +91,47 @@ export default {
 
 .content .g-image {
   width: 100%;
+}
+
+.button {
+  display: inline-block;
+  text-align: center;
+  width: 12em;
+  margin: 1em 0 4em;
+
+   border-top: 1px solid #96d1f8;
+   background: #a1d665;
+   background: -webkit-gradient(linear, left top, left bottom, from(#3e9c5c), to(#a1d665));
+   background: -webkit-linear-gradient(top, #3e9c5c, #a1d665);
+   background: -moz-linear-gradient(top, #3e9c5c, #a1d665);
+   background: -ms-linear-gradient(top, #3e9c5c, #a1d665);
+   background: -o-linear-gradient(top, #3e9c5c, #a1d665);
+   padding: 5px 10px;
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: white;
+   font-size: 24px;
+   font-family: Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.button:hover {
+   border-top-color: #1f7857;
+   background: #1f7857;
+   color: #ccc;
+   }
+.button:active {
+   border-top-color: #1b5c27;
+   background: #1b5c27;
+   }
+
+.markdown, nav {
+  margin-bottom: 3em;
 }
 
 blockquote {
