@@ -16,6 +16,4 @@ Wir brauchen dafür 50'000 Klicks – machst du mit?
 
 ![](/media/ui-1.jpg)
 
-<small>Bildquellen: [flickr.com](https://flickr.com/photos/franganillo/24625645967/), [mesch.ch]()</small>
-
 > #### **Dank dem Sponsoring von** [**Swisscom**](https://swisscom.ch) **kannst du ein iPhone 11 gewinnen! Die Umfrage dauert nur 5 Minuten.**

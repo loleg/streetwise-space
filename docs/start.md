@@ -6,17 +6,17 @@ slug: start
 ---
 ## Crowdsourcing startet am 11. Mai 2020
 
-Hintergrundinfo zum Kooperationsprojekt Streetwise.
+Die Umfrage ist ab diesem Datum offen. Unser Projekt wird bis dahin weiterentwickelt und möglich user-freundlich gestaltet. Die Zeitdauer der Umfrage bleibt circa 5 Minuten.
 
-**Es gibt keine neutralen Räume**
+Bitte [melden Sie sich](/contact) bei uns, falls Sie Fragen haben, wöllen unseren Testteam betreten, oder Kommunikationskanäle und Formate empfehlen.
 
-Entweder sie helfen oder sie schaden uns. So klar bringt die Architekturkritikerin und Autorin [Sara Williams Goldhagen](http://sarahwilliamsgoldhagen.com/) auf den Punkt, welche Bedeutung räumliche Qualitäten für unser Zusammenleben haben. Für das Wohlbefinden oder für die Wahrnehmung von Sicherheit. Die [Broken-Windows Theorie](https://de.wikipedia.org/wiki/Broken-Windows-Theorie) lehrt uns, dass ein direkter Zusammenhang zwischen der Atmosphäre – etwa gemessen am baulichen Zustand von Stadtgebieten –und Kriminalität besteht. Und Kevin Lynch belegt in seinem epochalen Buch “[The Image of the City](http://architectureandurbanism.blogspot.com/2010/09/kevin-lynch-image-of-city-1960.html)”, dass es kollektive Bilder der Stadt gibt, dass ein öffentliches oder allgemeines “Image” von Orten besteht. Und dass wir dieses erfassen können.
+Im Folge sind Hintergrundinformationen zum Kooperationsprojekt Streetwise.
+
+**Es gibt keine neutralen Räume**: Entweder sie helfen oder sie schaden uns. So klar bringt die Architekturkritikerin und Autorin [Sara Williams Goldhagen](http://sarahwilliamsgoldhagen.com/) auf den Punkt, welche Bedeutung räumliche Qualitäten für unser Zusammenleben haben. Für das Wohlbefinden oder für die Wahrnehmung von Sicherheit. Die [Broken-Windows Theorie](https://de.wikipedia.org/wiki/Broken-Windows-Theorie) lehrt uns, dass ein direkter Zusammenhang zwischen der Atmosphäre – etwa gemessen am baulichen Zustand von Stadtgebieten –und Kriminalität besteht. Und Kevin Lynch belegt in seinem epochalen Buch “[The Image of the City](http://architectureandurbanism.blogspot.com/2010/09/kevin-lynch-image-of-city-1960.html)”, dass es kollektive Bilder der Stadt gibt, dass ein öffentliches oder allgemeines “Image” von Orten besteht. Und dass wir dieses erfassen können.
 
 **Die Zusammenhänge zwischen Raumwahrnehmung und Verhaltensweisen sind zentral für den Erfolg** der politisch beschlossenen Siedlungsentwicklung nach innen (=>[Akzeptanz von Nachverdichtung](https://are.zh.ch/internet/baudirektion/are/de/raumplanung/strategien-konzepte/langfristige-raumentwicklungsstrategie/studien8_14/_jcr_content/contentPar/downloadlist_1/downloaditems/359_1422373887343.spooler.download.1422968786586.pdf/Akzeptanz_Dichte_2014.pdf)) oder für die Sicherheit (=>Intervention und Prävention) – aber auch für jede weitere Politik- und Verwaltungsdomäne, die eine räumliche Komponente aufweist. Hierzu gehören Bereiche wie Gesundheit, Alter genauso wie die Freiraumplanung.
 
-**Früher: Ein Ressourcenproblem. teuer, kompliziert, aufwändig und ortsgebunden.**
-
-Gleichzeitig liegen nur punktuelle Daten über die Wahrnehmung von Räumen durch die Bevölkerung vor. Grund hierfür ist, dass die Erhebung entsprechender Informationen bislang mit unverhältnismässig grossem Aufwand in Form von Befragungen zu spezifischen Themen und spezifischen Orten verbunden war. **Folge** hiervon ist, dass etwa in der Siedlungsentwicklung Fragen der räumlichen Qualität vorschnell als “Geschmackssache” abgetan und die bedeutende **Ortswahrnehmung der Bevölkerung kaum beachtet** wurde. Die Effizienz- und Wohlstandsverluste lassen sich schwer abschätzen, sie dürften aber erheblich sein.
+**Früher: Ein Ressourcenproblem. teuer, kompliziert, aufwändig und ortsgebunden.** Gleichzeitig liegen nur punktuelle Daten über die Wahrnehmung von Räumen durch die Bevölkerung vor. Grund hierfür ist, dass die Erhebung entsprechender Informationen bislang mit unverhältnismässig grossem Aufwand in Form von Befragungen zu spezifischen Themen und spezifischen Orten verbunden war. **Folge** hiervon ist, dass etwa in der Siedlungsentwicklung Fragen der räumlichen Qualität vorschnell als “Geschmackssache” abgetan und die bedeutende **Ortswahrnehmung der Bevölkerung kaum beachtet** wurde. Die Effizienz- und Wohlstandsverluste lassen sich schwer abschätzen, sie dürften aber erheblich sein.
 
 **Heute ist es anders.**
 
