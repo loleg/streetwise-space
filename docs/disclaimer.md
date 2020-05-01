@@ -4,14 +4,49 @@ date: 2020-04-13
 slug: disclaimer
 
 ---
-## Disclaimer Wettbewerbsbedingungen
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in purus accumsan, consequat turpis eu, interdum metus. Vestibulum dignissim quam gravida, dapibus lorem et, blandit nunc. Vestibulum vel odio urna. Nulla accumsan tincidunt eros sit amet cursus. Nunc fermentum iaculis scelerisque. Maecenas a magna sed purus egestas tincidunt. Suspendisse potenti. Maecenas euismod sem id molestie tempus. Pellentesque eu mauris porta, tempor sem eu, scelerisque erat. Proin lobortis nunc sed posuere blandit.
+## Teilnahmebedingungen
 
-Nulla et pulvinar dolor. Duis eget risus eu nunc pretium tincidunt quis eu nibh. Donec sed congue magna, ac convallis dui. Nam ultricies nunc ac auctor aliquam. Curabitur justo leo, tempor at tempus vitae, semper eget ligula. Sed urna quam, rutrum sed sollicitudin sed, molestie non metus. Mauris ullamcorper est nec euismod tincidunt. Aliquam sed tellus vestibulum, venenatis nisi eget, suscipit arcu. Proin blandit libero lectus, in venenatis nulla tempus vitae. Sed malesuada, enim at ullamcorper euismod, nisi ipsum fringilla justo, et elementum diam augue sed risus. Nullam ligula risus, aliquam sed volutpat venenatis, consequat at sem. In in faucibus nibh. Nunc a lacus leo. Suspendisse interdum felis sed magna sagittis condimentum.
+Die Teilnahme ist zwischen dem 11. Mai 2020 und dem 30. November 2020. Teilnahmen werden ausschliesslich per Online-Crowdsourcing-Umfrageformular auf der Streetwise-Website akzeptiert. Pro Person ist nur eine Teilnahme zulässig. Mehrfachteilnahmen am Wettbewerb werden nicht akzeptiert.
 
-Donec id nunc tristique, tempus magna in, auctor lectus. Sed eget efficitur sem. Aliquam tincidunt enim sed elit fringilla, eu vestibulum diam egestas. Fusce pulvinar lacus scelerisque est blandit, id scelerisque urna consequat. Nam quis nibh nec nunc molestie ullamcorper. Cras dapibus justo nisl. Suspendisse eu viverra ex. Donec sit amet finibus purus.
+Teilnahmeberechtigt sind alle in der Schweiz wohnhaften natürlichen Personen ab 16 Jahren. Mitarbeitende der IVO Innenentwicklung AG und Swisscom AG sowie deren Angehörige sind von der Teilnahme ausgeschlossen. Die zur Teilnahme erforderlichen Daten werden nicht an Dritte weitergegeben.
 
-Proin viverra elit erat, quis fermentum felis feugiat vel. Praesent dictum ipsum eu neque viverra posuere. Vivamus malesuada lacinia arcu vitae malesuada. Aliquam mollis quam quis viverra fermentum. Fusce semper tempus erat sit amet rutrum. Praesent mollis turpis neque, in mollis ante elementum ut. Curabitur consequat maximus elit, eget feugiat nibh imperdiet nec. Sed aliquam sagittis turpis, eget dapibus dui congue nec. Integer pulvinar nisi eu erat euismod, nec suscipit lorem eleifend. Aliquam id fermentum nisl. Donec placerat sodales mauris, at egestas velit posuere sed. Etiam ac posuere libero.
+Automatisch generierte Einträge und Teilnehmer/innen, welche technische Manipulationen vornehmen oder in anderer Art gegen die Teilnahmebedingungen verstossen, werden vom Wettbewerb ausgeschlossen. Das Projektteam steht es frei, das Gewinnspiel abzusagen, wenn es den Anschein hat, dass es bei der Teilnahme am Gewinnspiel zu Irregularitäten gekommen ist.
 
-Pellentesque auctor varius dolor, vitae fermentum purus condimentum eget. Morbi nec ligula in ipsum pharetra consequat eget eu leo. Vivamus vitae odio et orci iaculis scelerisque. Nunc tincidunt tellus ac libero tincidunt varius ut eget velit. Duis lobortis ex nec urna pharetra porta. Vivamus in sodales ex. Nunc nec pellentesque sem. Pellentesque diam nunc, vulputate at orci in, congue rutrum libero. Donec faucibus enim non est accumsan commodo. Aliquam metus turpis, consectetur non velit ut, vehicula convallis nulla.
+Die Verlosung findet unter Ausschluss der Öffentlichkeit statt. ​Der Gewinn wird ausschliesslich als Sachpreis zugeteilt, ein Umtausch oder eine Auszahlung des Wertes des Gewinnes ist nicht möglich. Die Teilnahmebedingungen können jederzeit angepasst werden. Über den Wettbewerb wird keine Korrespondenz geführt. Der Rechtsweg ist ausgeschlossen. Gerichtsstand ist Zürich. Es gilt ausschliesslich Schweizerisches Recht.
+
+## Nutzungsbedingungen
+
+**(1) Allgemeines**
+
+Die Streetwise App («App») ist eine Dienstleistung der Arbeitsgemeinschaft des Projekts Streetwise («ARGE»). Der ARGE verfügt als einfache Gesellschaft über keine eigene Rechtspersönlichkeit. Die App kann im Internet benutzt werden ohne spezielle Vorausstezungen. Der ARGE kann zur Leistungserbringung Dritte beiziehen. Sie kann Dienste Dritter oder verlinkte Webseiten Dritter in der App integrieren (siehe Ziff. 3). Die Nutzung von Diensten oder verlinkten Webseiten Dritter unterliegt einschlägigen Bestimmungen der Betreiber der betreffenden Dienste und Webseiten.
+
+Die App ist kostenlos. Für die Nutzung der App können je nach Anbieter und Art des Abonnements sowie im Ausland, Kosten für die Datenübertragung anfallen.
+
+Durch der Nutzung dieser App erklärt sich der Benutzer mit den vorliegenden Nutzungsbestimmungen von der ARGE einverstanden. Die vorliegende Vereinbarung kommt ausschliesslich zwischen ihm und ARGE zustande und nicht zwischen ihm und dem Internet Service Provider.
+
+**(2) Datenschutz**
+
+Für die vorliegende App gibt der Benutzer sein Einverständnis, dass der ARGE sein Nutzerverhalten innerhalb der App (z.B. welche Funktion bzw. Seite generell wie oft angewählt wird) verfolgt bzw. auswertet. Dies geschieht mit Ausnahme der IP-Adresse in anonymisierter Form. Der ARGE arbeitet im Hinblick auf die Auswertung des Nutzerverhaltens mit externe Provider zusammen (siehe Ziff. 3), weshalb diese Daten ins Ausland übermittelt werden können.
+
+Der ARGE stellt sicher, dass die von ihr beauftragten Firmen dem Datenschutz und der Datensicherheit in gleicher Weise verpflichtet sind wie die ARGE-Partnerfirmen selbst. Wird eine Dienstleistung von der ARGE gemeinsam mit Dritten erbracht, so kann der ARGE gewisse Daten über den Benutzer an Dritte weitergeben, insoweit dies für die Erbringung solcher Dienstleistungen notwendig ist.
+
+Der ARGE sowie die von ihr hinzugezogenen Dritten können keinen unterbruchs- und fehlerfreien Betrieb der vorliegenden App gewährleisten. Der Benutzer ist für den sicheren Umgang mit der App und seinem mobilen Endgerät alleine verantwortlich. Der ARGE empfiehlt, das mobile Endgerät, auf dem die App installiert ist, immer mit einem Passwort zu schützen und somit die persönlichen Dateien, in die mittels dieser App eingesehen werden können, im Falle von Verlust oder Diebstahl des mobilen Endgeräts zu schützen. Der ARGE schliesst diesbezüglich jegliche Verantwortung vollumfänglich aus.
+
+**(3) Drittanbieter**
+
+Zurzeit bezieht und integriert die App Dienste und Leistungen folgender Drittanbieter:
+
+- Salesforce.com, Inc.: https://heroku.com/
+- Conva Ventures Inc.: https://usefathom.com/
+- Linode, LLC: https://linode.com/
+
+**(4) Support**
+
+Für Supportanfragen kann der Benutzer die Hilfeseiten unter https://streetwise.space/start in Anspruch nehmen oder der ARGE per E-mail auf support@streetwise.space kontaktieren. Der Support betreffend Dienstleistungen von Drittanbietern wird ausschliesslich von diesen Drittanbietern direkt erbracht.
+
+**(5) Gerichtsstand, anwendbares Recht**
+
+Für sämtliche Fragen und Auseinandersetzungen im Zusammenhang mit der App gilt ausschliesslich Schweizerisches Recht. Ausschliesslicher Gerichtsstand ist Bern; zwingende Gerichtsstände sind vorbehalten.
+
+Mai 2020
