@@ -46,6 +46,6 @@ Für Supportanfragen kann der/die Benutzer/in die Hilfeseiten unter https://stre
 
 **(5) Gerichtsstand, anwendbares Recht**
 
-Für sämtliche Fragen und Auseinandersetzungen im Zusammenhang mit der App gilt ausschliesslich Schweizerisches Recht. Ausschliesslicher Gerichtsstand ist Bern; zwingende Gerichtsstände sind vorbehalten.
+Für sämtliche Fragen und Auseinandersetzungen im Zusammenhang mit der App gilt ausschliesslich Schweizerisches Recht. Ausschliesslicher Gerichtsstand ist Zürich; zwingende Gerichtsstände sind vorbehalten.
 
 Mai 2020
