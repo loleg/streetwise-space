@@ -16,8 +16,12 @@
           "slug": "disclaimer"
         },
         {
-          "title": "Kontakt",
-          "slug": "contact"
+          "title": "Rechtliches",
+          "slug": "legal"
+        },
+        {
+          "title": "Impressum",
+          "slug": "impressum"
         }
       ]
     }

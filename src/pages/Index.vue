@@ -14,7 +14,9 @@
         </g-link>
       </center>
 
-      <div class="markdown" v-html="$page.content.edges[0].node.content" />
+      <center>
+        <div class="markdown" v-html="$page.content.edges[0].node.content" />
+      </center>
 
       <nav>
         <Shortcut link="/start" text="Starten" icon="play-icon" />
