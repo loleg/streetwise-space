@@ -4,23 +4,23 @@ date: 2020-04-13
 slug: impressum
 
 ---
-
 Für diese Webseite ist die Arbeitsgemeinschaft des Projekts Streetwise verantwortlich.
 
 ✉ [info@streetwise.space](mailto:info@streetwise.space)
-<pre>   
-Streetwise c/o   
-IVO Innenentwicklung AG   
-Sternmattstrasse 3   
-6005 Luzern   
+<pre>  
+Streetwise c/o  
+IVO Innenentwicklung AG  
+Sternmattstrasse 3  
+6005 Luzern  
 </pre>
 
 ## Projektteam
 
-**[Laura Iseli](mailto:laura.iseli@ivoag.ch)**, Projektleiterin  
-IVO
+IVO Innenentwicklung AG
+
 Datalets
-Human-IST
+
+Human-IST Institute Uni Fribourg
 
 ## Disclaimer
 
