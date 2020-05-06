@@ -10,7 +10,7 @@ Durch Anklicken eines Bildes geben diese jeweils eine Bewertung ab, womit ein Al
 
 In unserem Projekt fragen wir zunächst nach der Einschätzung von räumlichen Situationen bezüglich deren Sicherheit.
 
-📋 [**One-Pager** herunterladen](docs/Onepager_Streetwise.pdf) (PDF)
+📋 [**One Pager** herunterladen](docs/Onepager_Streetwise.pdf) (PDF)
 
 ### Kernideen
 
