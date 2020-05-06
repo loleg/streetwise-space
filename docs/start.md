@@ -6,8 +6,8 @@ slug: start
 ---
 ## Crowdsourcing startet am 11. Mai 2020
 
-Die Umfrage ist ab diesem Datum offen. Unser Projekt wird bis dahin weiterentwickelt und möglich user-freundlich gestaltet. Die geschätzte Zeitdauer der Umfrage ist von maximal 5 Minuten.
+Die Umfrage ist ab dem 11. Mai 2020 geöffnet. Bis dahin wird sie weiterentwickelt und  user-freundlich gestaltet. Die geschätzte Zeitdauer der Umfrage beträgt max. 5 Minuten.
 
-Sehen Sie auch die [Hintergrundinformationen](about) zum Kooperationsprojekt Streetwise, und bitte [melden Sie sich](/contact) bei uns - falls Sie Fragen haben, wöllen unseren Testteam betreten, oder Kommunikationskanäle und Formate empfehlen.
+Bei den [Hintergrundinformationen](about) gibt's mehr zum Kooperationsprojekt Streetwise zu lesen. [Melden Sie sich](/contact) bei uns bei Fragen zu Streetwise, wenn Sie bei User-Testings mitmachen oder Kommunikationskanäle und Formate empfehlen möchten.
 
 ![](/media/ui-1.jpg)
