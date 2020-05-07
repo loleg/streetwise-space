@@ -14,4 +14,4 @@ Automatisch generierte Einträge und Teilnehmer/innen, welche technische Manipul
 
 Die Verlosung findet unter Ausschluss der Öffentlichkeit statt. ​Der Gewinn wird ausschliesslich als Sachpreis zugeteilt, ein Umtausch oder eine Auszahlung des Wertes des Gewinnes ist nicht möglich. Die Teilnahmebedingungen können jederzeit angepasst werden. Über den Wettbewerb wird keine Korrespondenz geführt. Der Rechtsweg ist ausgeschlossen. Gerichtsstand ist Zürich. Es gilt ausschliesslich Schweizerisches Recht.
 
-Weitere Bedingungen zur Nutzung vom App sind in [Rechtliches](legal).
+Weitere Bedingungen zur Nutzung von der Streetwise-App findest du unter [Rechtliches](legal).
