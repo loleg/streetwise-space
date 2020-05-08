@@ -29,4 +29,4 @@ Edy Portmann, Jhonny Pincay Nieves, Moreno Colombo
 
 Inhalt und Grafik der Website sind urheberrechtlich geschützt. Wir haften nicht für die über die Webseite verbreiteten Informationen und Ansichten. Die Arbeitsgemeinschaft des Projekts Streetwise und ihre Partner haften nicht für Schäden oder Verluste im Zusammenhang mit dem Besuch der Website, und es wird keine Verantwortung übernommen für die Inhalte der auf der Webseite vorhandenen Links.
 
-Datenschutzrelevante und weitere Bedingungen in [Rechtliches](legal).
+Datenschutzrelevante und weitere Bedingungen findest du in [Rechtliches](legal).
