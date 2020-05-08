@@ -1,5 +1,5 @@
 ---
-title: Wettbewerb iPhone11
+title: Wettbewerb iPhone 11
 date: 2020-04-13
 slug: disclaimer
 
