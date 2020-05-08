@@ -11,7 +11,8 @@ keywords: Streetwise, Projekt, Kooperationsprojekt, MKZ, Metropolitanraum, Züri
   Crowdsourcing, Sicherheit, Umfrage, Verkehrssicherheit, Wohlbefinden
 
 ---
-### Unsere Crowdsourcing-Umfrage startet am 11. Mai 2020.   
+### Unsere Crowdsourcing-Umfrage dauert vom 11. Mai bis zum 31. Oktober 2020.
+
 Wir brauchen dafür 50'000 Klicks – machst du mit?
 
 ![](/media/ui-1.jpg)
