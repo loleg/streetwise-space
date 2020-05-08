@@ -16,11 +16,14 @@ Sternmattstrasse 3
 
 ## Projektteam
 
-IVO Innenentwicklung AG
+**IVO Innenentwicklung AG**  
+Joris Van Wezemael, Laura Iseli
 
-Datalets
+**Datalets**  
+Oleg Lavrovsky
 
-Human-IST Institute Uni Fribourg
+**Human-IST Institute Uni Fribourg**  
+Edy Portmann, Jhonny Pincay Nieves, Moreno Colombo
 
 ## Disclaimer
 
