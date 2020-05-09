@@ -15,6 +15,6 @@ keywords: Streetwise, Projekt, Kooperationsprojekt, MKZ, Metropolitanraum, Züri
 
 Wir brauchen dafür 50'000 Klicks – machst du mit?
 
-![](/media/ui-1.jpg)
+![](/streetwise-ytcount-3-16x9-900px.jpg)
 
 > #### **Dank dem Sponsoring von** [**Swisscom**](https://swisscom.ch) **kannst du ein iPhone 11 gewinnen! Die Umfrage dauert nur 5 Minuten.**
