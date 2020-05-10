@@ -6,7 +6,7 @@ slug: impressum
 ---
 Für diese Webseite ist die Arbeitsgemeinschaft des Projekts Streetwise verantwortlich.
 
-✉ [info@streetwise.space](mailto:info@streetwise.space)
+**✉ [info@streetwise.space](mailto:info@streetwise.space)**
 <pre>  
 Streetwise c/o  
 IVO Innenentwicklung AG  
