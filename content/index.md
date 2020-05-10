@@ -3,8 +3,7 @@ slug: index
 title: Willkommen bei Streetwise! Schön, dass du hier bist.
 headline: Es gibt tausende Karten – keine zeigt die Raumqualität aus Sicht der Bevölkerung.
   Wie nehmen wir unseren Lebensraum wahr? Wie erleben wir die Atmosphäre eines Ortes,
-  wo fühlen wir uns sicher, wo fühlen wir uns gut? Diese Fragen werden umso wichtiger,
-  je mehr Menschen in städtischen Gebieten leben.
+  wo fühlen wir uns sicher, wo fühlen wir uns gut?
 button: Umfrage starten
 image: "~/assets/img/ui-1.jpg"
 keywords: Streetwise, Projekt, Kooperationsprojekt, MKZ, Metropolitanraum, Zürich,
