@@ -8,7 +8,7 @@ slug: legal
 
 **(1) Allgemeines**
 
-Unter [www.streetwise.space](https://www.streetwise.space/) und [www.streetwise-app.ch](https://streetwise-app.ch/#/) betreibt die Areitsgemeinschaft des Projekts Streetwise ("ARGE", "wir") eine webbasierte Umfrage (auf der Website bezeichnet als "APP"). Die ARGE verfügt als einfache Gesellschaft über keine eigene Rechtspersönlichkeit. An der Umfrage kann man ohne spezielle Voraussetzungen teilnehmen.
+Unter [www.streetwise.space](https://www.streetwise.space/) und [www.streetwise-app.ch](https://streetwise-app.ch/#/) betreibt die Areitsgemeinschaft des Projekts Streetwise ("[ARGE](https://streetwise.space/impressum)", "wir") eine webbasierte Umfrage (auf der Website bezeichnet als "APP"). Die ARGE verfügt als einfache Gesellschaft über keine eigene Rechtspersönlichkeit. An der Umfrage kann man ohne spezielle Voraussetzungen teilnehmen.
 
 Als Teilnehmer*in an der Umfrage hilfst du uns, die Raumqualität für die Schweiz zu erfassen. Du kannst im Anschluss an unsere Umfrage, die voraussichtlich per Ende Oktober 2020 endet, die Umfrageergebnisse erhalten, wenn du dies wünschst.
 
