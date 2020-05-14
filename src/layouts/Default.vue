@@ -5,8 +5,8 @@
     <main class="main" :class="{'main--no-sidebar': !sidebar, 'main--sidebar-is-open' : this.$store.state.sidebarOpen}">
       <slot/>
     </main>
+    <Analytics />
   </div>
-  <Analytics />
 </template>
 
 <static-query>

@@ -4,17 +4,20 @@
     <nav class="nav">
       <MenuToggle v-if="menuToggle" />
     </nav>
+    <SocialIcons :color="logoColor" />
   </header>
 </template>
 
 <script>
 import MenuToggle from '~/components/MenuToggle.vue'
+import SocialIcons from '~/components/SocialIcons.vue'
 import Logo from '~/components/Logo.vue'
 import throttle from 'lodash/throttle'
 
 export default {
   components: {
     MenuToggle,
+    SocialIcons,
     Logo
   },
   props: {
