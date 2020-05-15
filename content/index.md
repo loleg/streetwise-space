@@ -11,9 +11,8 @@ keywords: Streetwise, Projekt, Kooperationsprojekt, MKZ, Metropolitanraum, Züri
   Crowdsourcing, Sicherheit, Umfrage, Verkehrssicherheit, Wohlbefinden
 
 ---
-### Unsere Crowdsourcing-Umfrage startet am 11. Mai 2020.   
-Wir brauchen dafür 50'000 Klicks – machst du mit?
+### Unsere Crowdsourcing-Umfrage lauft. Wir brauchen dafür 50'000 Klicks – machst du mit?
 
 ![](/media/ui-1.jpg)
 
-> #### **Dank dem Sponsoring von** [**Swisscom**](https://swisscom.ch) **kannst du ein iPhone 11 gewinnen! Die Umfrage dauert nur 5 Minuten.**
+#### Dank dem Sponsoring von [Swisscom](https://swisscom.ch) kannst du ein iPhone 11 [gewinnen](https://streetwise.space/disclaimer#teilnahmebedingungen)! Die Umfrage dauert nur 5 Minuten.
