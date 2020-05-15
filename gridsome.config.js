@@ -41,12 +41,6 @@ module.exports = {
       }
     },
     {
-      use: '@gridsome/plugin-google-analytics',
-      options: {
-        id: (process.env.GA_ID ? process.env.GA_ID : 'XX-999999999-9')
-      }
-    },
-    {
       use: '@gridsome/plugin-sitemap',
       options: {
         cacheTime: 600000
@@ -56,5 +50,13 @@ module.exports = {
   chainWebpack: config => {
     const types = ['vue-modules', 'vue', 'normal-modules', 'normal']
     types.forEach(type => addStyleResource(config.module.rule('scss').oneOf(type)))
+  },
+  head: {
+    meta: [
+      { content: 'telephone=no', name: 'format-detection' }
+    ],
+    script: [
+      { src: '~/assets/js/flexible.js' }
+    ]
   }
 }

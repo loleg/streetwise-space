@@ -4,10 +4,12 @@ date: 2020-04-07
 slug: start
 
 ---
-## Crowdsourcing startet am 11. Mai 2020
+## Crowdsourcing gestartet
 
-Die Umfrage ist ab diesem Datum offen. Unser Projekt wird bis dahin weiterentwickelt und möglich user-freundlich gestaltet. Die geschätzte Zeitdauer der Umfrage ist von maximal 5 Minuten.
+Die Umfrage ist seit dem 11. Mai 2020 geöffnet. Die geschätzte Zeitdauer beträgt max. 5 Minuten und deine Beantwortungen sind anonym.
 
-Sehen Sie auch die [Hintergrundinformationen](about) zum Kooperationsprojekt Streetwise, und bitte [melden Sie sich](/contact) bei uns - falls Sie Fragen haben, wöllen unseren Testteam betreten, oder Kommunikationskanäle und Formate empfehlen.
+Jetzt loslegen und [**Umfrage starten**](https://streetwise-app.ch/)**!**
 
-![](/media/ui-1.jpg)
+Bei den [Hintergrundinformationen](about) gibt's mehr zum Kooperationsprojekt Streetwise zu lesen. [Melde dich](/contact) bei uns bei Fragen zu Streetwise, wenn du bei User-Testings mitmachen oder Kommunikationskanäle und Formate empfehlen möchtest.
+
+![](/media/streetwise-ytcount-3-16x9-900px.jpg)

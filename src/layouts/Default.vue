@@ -5,6 +5,7 @@
     <main class="main" :class="{'main--no-sidebar': !sidebar, 'main--sidebar-is-open' : this.$store.state.sidebarOpen}">
       <slot/>
     </main>
+    <Analytics />
   </div>
 </template>
 
@@ -19,11 +20,13 @@ query {
 <script>
 import Header from '~/components/Header.vue'
 import Sidebar from '~/components/Sidebar.vue'
+import Analytics from '~/components/Analytics.vue'
 
 export default {
   components: {
     Header,
-    Sidebar
+    Sidebar,
+    Analytics
   },
   props: {
     sidebar: {

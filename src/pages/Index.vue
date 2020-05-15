@@ -9,7 +9,7 @@
       </p>
 
       <center>
-        <g-link to="/start" class="button">
+        <g-link to="https://streetwise-app.ch/" class="button">
           {{ $page.content.edges[0].node.button }}
         </g-link>
       </center>
@@ -19,7 +19,7 @@
       </center>
 
       <nav>
-        <Shortcut link="/start" text="Starten" icon="play-icon" />
+        <Shortcut link="https://streetwise-app.ch/" text="Starten" icon="play-icon" />
         <Shortcut link="/about" text="Information" icon="help-circle-icon" />
         <Shortcut link="/contact" text="Kontakt" icon="mail-icon" />
       </nav>

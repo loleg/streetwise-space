@@ -26,14 +26,26 @@ export default function (Vue, { router, head, isClient, appOptions }) {
   })
 
   head.meta.push({
-    name: 'google-site-verification',
-    content: process.env.GSV_META
-  })
-
-  head.meta.push({
     name: 'apple-mobile-web-app-status-bar-style',
     content: 'default'
   })
+
+  // Google Site Verification code
+  if (typeof process.env.GSV_META !== 'undefined') {
+    head.meta.push({
+      name: 'google-site-verification',
+      content: process.env.GSV_META
+    })
+  }
+
+  // Fathom - beautiful, simple website analytics
+  if (typeof process.env.FATHOM_SITE !== 'undefined') {
+    head.script.push({
+      src: "https://cdn.usefathom.com/script.js",
+      site: process.env.FATHOM_SITE,
+      defer: true
+    })
+  }
 
   // State
   appOptions.store = new Vuex.Store({
