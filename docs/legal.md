@@ -8,7 +8,7 @@ slug: legal
 
 **(1) Allgemeines**
 
-Unter [www.streetwise.space](https://www.streetwise.space/) und [www.streetwise-app.ch](https://streetwise-app.ch/#/) betreibt die Areitsgemeinschaft des Projekts Streetwise ("[ARGE](https://streetwise.space/impressum)", "wir") eine webbasierte Umfrage (auf der Website bezeichnet als "APP"). Die ARGE verfügt als einfache Gesellschaft über keine eigene Rechtspersönlichkeit. An der Umfrage kann man ohne spezielle Voraussetzungen teilnehmen.
+Unter [streetwise.space](https://streetwise.space/) und [streetwise-app.ch](https://streetwise-app.ch/) betreibt die Areitsgemeinschaft des Projekts Streetwise ("[ARGE](https://streetwise.space/impressum)", "wir") eine webbasierte Umfrage (auf der Website bezeichnet als "APP"). Die ARGE verfügt als einfache Gesellschaft über keine eigene Rechtspersönlichkeit. An der Umfrage kann man ohne spezielle Voraussetzungen teilnehmen.
 
 Als Teilnehmer*in an der Umfrage hilfst du uns, die Raumqualität für die Schweiz zu erfassen. Du kannst im Anschluss an unsere Umfrage, die voraussichtlich per Ende Oktober 2020 endet, die Umfrageergebnisse erhalten, wenn du dies wünschst.
 
@@ -40,17 +40,17 @@ Wir verwenden nur eigene und nur technisch notwendige Cookies.
 
 a) Zurzeit bezieht und integriert die Umfrage folgende Dienste und Leistungen von Drittanbietern, an welche auch personenbezogene Daten von dir gehen können:
 
-* Conva Ventures Inc.: https://usefathom.com/
-* Cloudflare, Inc.: https://www.cloudflare.com/
-* Vercel, Inc.: https://vercel.com/
+* Conva Ventures Inc.: https://usefathom.com/ (für unseren Datenschutz-konformen Web Analytics)
 * Google Inc.: https://www.google.com/ (das Formular für den Wettbewerb und das Umfrage-Feedback)
-* Facebook Inc.: https://www.facebook.com/ (nur auf der Website [streetwise.space](https://www.facebook.com/) aktiv, s. Ziffer 4)
+* Facebook Inc.: https://www.facebook.com/ (nur auf der Website streetwise.space aktiv, s. Ziffer 4)
 
 b) Drittanbieter ohne Transfer von personenbezogenen Daten:
 
 Swisscom hat uns das iPhone 11 gesponsert, erhält aber keine personenbezogenen Daten von dir.  
-Metanet für die Domain-Namen.  
-GitHub für den Quellcode.  
+Metanet für die Domain-Namen und E-mail. (METANET AG: https://metanet.ch).
+GitHub für den Quellcode. (Microsoft Corp.: https://github.com/).
+Vercel für hosting der Webseite. (Vercel, Inc.: https://vercel.com/).
+Cloudflare für DNS-hosting. (Cloudflare, Inc.: https://www.cloudflare.com/).
 Heroku für App-Infrastruktur (Salesforce.com, Inc.: https://heroku.com/).  
 Linode für Hosting der Bilderdaten (LLC: https://linode.com/).
 
@@ -62,11 +62,11 @@ So kann das Verhalten der Seitenbesucher nachverfolgt werden, nachdem diese durc
 
 Die erhobenen Daten sind für uns als Betreiberin dieser Website anonym, wir können keine Rückschlüsse auf die Identität der Nutzer*innen ziehen. Die Daten werden aber von Facebook gespeichert und verarbeitet, sodass eine Verbindung zum jeweiligen Nutzerprofil möglich ist und Facebook die Daten für eigene Werbezwecke, entsprechend der Facebook-Datenverwendungsrichtlinie verwenden kann. Dadurch kann Facebook das Schalten von Werbeanzeigen auf Seiten von Facebook sowie außerhalb von Facebook ermöglichen. Diese Verwendung der Daten kann von uns als Seitenbetreiberin nicht beeinflusst werden.
 
-In den Datenschutzhinweisen von Facebook findest du weitere Hinweise zum Schutz deiner Privatsphäre: [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/ "https://www.facebook.com/about/privacy/").
+In den Datenschutzhinweisen von Facebook findest du weitere Hinweise zum Schutz deiner Privatsphäre: [facebook.com/about/privacy/](https://www.facebook.com/about/privacy/).
 
-Du kannst ausserdem die Remarketing-Funktion “Custom Audiences” im Bereich Einstellungen für Werbeanzeigen unter [https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen](https://www.facebook.com/about/privacy/ "https://www.facebook.com/about/privacy/") deaktivieren. Dazu musst du bei Facebook angemeldet sein.
+Du kannst ausserdem die Remarketing-Funktion “Custom Audiences” im Bereich Einstellungen für Werbeanzeigen unter [facebook.com/ads/preferences/](https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen") deaktivieren. Dazu musst du bei Facebook angemeldet sein.
 
-Wenn du kein Facebook Konto besitzt, kannst du nutzungsbasierte Werbung von Facebook auf der Website der European Interactive Digital Advertising Alliance deaktivieren: [http://www.youronlinechoices.com/de/praferenzmanagement/](https://www.facebook.com/about/privacy/ "https://www.facebook.com/about/privacy/").
+Wenn du kein Facebook Konto besitzt, kannst du nutzungsbasierte Werbung von Facebook auf der Website der European Interactive Digital Advertising Alliance deaktivieren: [youronlinechoices.com](http://www.youronlinechoices.com/de/praferenzmanagement/").
 
 **(5) Immaterialgüterrechte**
 
