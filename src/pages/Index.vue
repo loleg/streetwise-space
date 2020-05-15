@@ -19,8 +19,8 @@
       </center>
 
       <nav>
-        <Shortcut link="https://streetwise-app.ch/" text="Starten" icon="play-icon" />
-        <Shortcut link="/about" text="Information" icon="help-circle-icon" />
+        <Shortcut link="https://streetwise-app.ch/" text="Zur Umfrage" icon="play-icon" />
+        <Shortcut link="/about" text="Weitere Infos" icon="help-circle-icon" />
         <Shortcut link="/contact" text="Kontakt" icon="mail-icon" />
       </nav>
 
@@ -49,6 +49,7 @@ query content {
         headline
         button
         content
+        keywords
       }
     }
   }
@@ -75,10 +76,27 @@ export default {
   },
   metaInfo() {
     let content = this.$page.content.edges[0].node
+    let title = 'Streetwise' // TODO: page setting
+    let canonical = 'https://streetwise.space' // TODO: global settings
+    let image = '/media/streetwise-ytcount-3-16x9-900px.jpg' // TODO: page setting
+
     return {
-      title: content.title,
+      title: title,
       meta: [
-        { key: 'description', name: 'description', content: content.headline }
+        { key: 'description', name: 'description', content: content.headline },
+        { key: 'keywords', name: 'keywords', content: content.keywords },
+
+        // OpenGraph data (Most widely used)
+        { property: 'og:title', content: title },
+        { property: 'og:site_name', content: title },
+        // The list of types is available here: http://ogp.me/#types
+        { property: 'og:type', content: 'website' },
+        // Should the the same as your canonical link, see below.
+        { property: 'og:url', content: canonical },
+        { property: 'og:image', content: image },
+        // Often the same as your meta description, but not always.
+        { property: 'og:description', content: content.headline }
+
       ]
     }
   }
