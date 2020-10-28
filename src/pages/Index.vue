@@ -8,18 +8,24 @@
         {{ $page.content.edges[0].node.headline }}
       </p>
 
-      <center>
+      <!-- <center>
         <g-link to="https://streetwise-app.ch/" class="button">
           {{ $page.content.edges[0].node.button }}
         </g-link>
-      </center>
+      </center> -->
 
       <center>
         <div class="markdown" v-html="$page.content.edges[0].node.content" />
       </center>
+      
+      <video width="100%" autoplay muted>
+        <source src="/media/take1.mp4" type="video/mpeg">
+        <source src="/media/take1.webm" type="video/webm">
+        <img src="/media/grant-ritchie-ii37vagPGgY-unsplash-1240px.jpg" />
+      </video>
 
       <nav>
-        <Shortcut link="https://streetwise-app.ch/" text="Zur Umfrage" icon="play-icon" />
+        <!-- <Shortcut link="https://streetwise-app.ch/" text="Zur Umfrage" icon="play-icon" /> -->
         <Shortcut link="/about" text="Weitere Infos" icon="help-circle-icon" />
         <Shortcut link="/contact" text="Kontakt" icon="mail-icon" />
       </nav>
