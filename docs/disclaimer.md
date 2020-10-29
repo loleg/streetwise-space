@@ -4,6 +4,10 @@ date: 2020-04-13
 slug: disclaimer
 
 ---
+## Gewinner*in steht fest!
+
+Die Verlosung des iPhone 11 findet unter Ausschluss der Öffentlichkeit statt.
+
 ## Teilnahmebedingungen
 
 Die Teilnahme am Wettbewerb ist zwischen dem 11. Mai 2020 und dem 31. Oktober 2020 möglich. Teilnahmen werden ausschliesslich per Online-Umfrageformular auf der Streetwise-Website akzeptiert. Pro Person ist nur eine Teilnahme zulässig. Mehrfachteilnahmen am Wettbewerb werden nicht akzeptiert.
