@@ -12,6 +12,4 @@ keywords: Streetwise, Projekt, Kooperationsprojekt, MKZ, Metropolitanraum, Züri
 ---
 ### Das Streetwise Crowdsourcing ist beendet
 
-Vom 11. Mai bis zum 31. Oktober 2020 konnten wir gesamthaft 37'000 Clicks sammeln. Ein grosses Dankeschön an alle Menschen, die beim Crowdsourcing mitgemacht haben!
-
-Jetzt geht's los mit der Datenauswertung und Ergebnisaufbereitung. Mehr Infos zu den Ergebnissen erscheinen in den nächsten Wochen hier.
+Vom 11. Mai bis zum 31. Oktober 2020 konnten wir gesamthaft 37'000 Clicks sammeln. Ein grosses Dankeschön an alle Menschen, die beim Crowdsourcing mitgemacht haben! Jetzt geht's los mit der Datenauswertung und Ergebnisaufbereitung. Mehr Infos zu den Ergebnissen erscheinen in den nächsten Wochen hier.
