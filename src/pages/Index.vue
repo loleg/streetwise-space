@@ -17,7 +17,7 @@
       <center>
         <div class="markdown" v-html="$page.content.edges[0].node.content" />
       </center>
-      
+
       <video width="100%" autoplay muted>
         <source src="/media/take1.mp4" type="video/mpeg">
         <source src="/media/take1.webm" type="video/webm">
@@ -26,7 +26,7 @@
 
       <nav>
         <!-- <Shortcut link="https://streetwise-app.ch/" text="Zur Umfrage" icon="play-icon" /> -->
-        <Shortcut link="/about" text="Weitere Infos" icon="help-circle-icon" />
+        <Shortcut link="/start" text="Weitere Infos" icon="help-circle-icon" />
         <Shortcut link="/contact" text="Kontakt" icon="mail-icon" />
       </nav>
 
