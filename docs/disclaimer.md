@@ -4,7 +4,7 @@ date: 2020-04-13
 slug: disclaimer
 
 ---
-## Gewinner*in steht fest!
+## Gewinner steht fest!
 
 Die Verlosung des iPhone 11 findet unter Ausschluss der Öffentlichkeit statt.
 
