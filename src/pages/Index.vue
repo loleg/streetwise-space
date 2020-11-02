@@ -23,7 +23,7 @@
         <source src="/media/take1.webm" type="video/webm">
         <img src="/media/grant-ritchie-ii37vagPGgY-unsplash-1240px.jpg" />
       </video>-->
-      <img src="/media/vid_20200624_094348.jpg">
+      <img src="/media/vid_20200624_094348.jpg" width="100%" height="auto">
 
       <nav>
         <!-- <Shortcut link="https://streetwise-app.ch/" text="Zur Umfrage" icon="play-icon" /> -->
