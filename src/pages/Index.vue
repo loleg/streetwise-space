@@ -18,11 +18,12 @@
         <div class="markdown" v-html="$page.content.edges[0].node.content" />
       </center>
 
-      <video width="100%" autoplay muted>
+      <!--<video width="100%" autoplay muted>
         <source src="/media/take1.mp4" type="video/mpeg">
         <source src="/media/take1.webm" type="video/webm">
         <img src="/media/grant-ritchie-ii37vagPGgY-unsplash-1240px.jpg" />
-      </video>
+      </video>-->
+      <img src="/media/vid_20200624_094348.jpg">
 
       <nav>
         <!-- <Shortcut link="https://streetwise-app.ch/" text="Zur Umfrage" icon="play-icon" /> -->
