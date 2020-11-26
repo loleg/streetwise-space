@@ -1,10 +1,11 @@
 {
-  "name": "jamdocs",
+  "name": "streetwise-space",
   "private": true,
   "scripts": {
     "build": "gridsome build",
+    "explore": "gridsome explore",
     "develop": "gridsome develop",
-    "explore": "gridsome explore"
+    "serve": "gridsome develop"
   },
   "dependencies": {
     "@gridsome/plugin-sitemap": "^0.2.1",
