@@ -4,8 +4,8 @@
       "section": "Erkenntnisse",
       "topics": [
         {
-          "title": "Übersicht",
-          "slug": "overview"
+          "title": "Ergebnisse",
+          "slug": "results"
         }
       ]
     },
@@ -19,10 +19,6 @@
         {
           "title": "Hintergrund",
           "slug": "about"
-        },
-        {
-          "title": "Ergebnisse",
-          "slug": "results"
         },
         {
           "title": "Wettbewerb",
