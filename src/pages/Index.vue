@@ -27,7 +27,8 @@
 
       <nav>
         <!-- <Shortcut link="https://streetwise-app.ch/" text="Zur Umfrage" icon="play-icon" /> -->
-        <Shortcut link="/start" text="Weitere Infos" icon="help-circle-icon" />
+        <Shortcut link="/results" text="Ergebnisse" icon="pie-chart-icon" />
+        <Shortcut link="/start" text="Hintergrund" icon="help-circle-icon" />
         <Shortcut link="/contact" text="Kontakt" icon="mail-icon" />
       </nav>
 

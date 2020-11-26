@@ -12,6 +12,10 @@
           "slug": "about"
         },
         {
+          "title": "Ergebnisse",
+          "slug": "results"
+        },
+        {
           "title": "Wettbewerb",
           "slug": "disclaimer"
         },
