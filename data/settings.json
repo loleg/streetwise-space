@@ -1,6 +1,15 @@
 {
   "sidebar": [
     {
+      "section": "Erkenntnisse",
+      "topics": [
+        {
+          "title": "Übersicht",
+          "slug": "overview"
+        }
+      ]
+    },
+    {
       "section": "Handbuch",
       "topics": [
         {
