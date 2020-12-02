@@ -1,5 +1,5 @@
 ---
-title: Hintergrundinfos zum Projekt
+title: Hintergrundinfos zu Streetwise
 date: 2020-04-13
 slug: about
 
@@ -41,3 +41,12 @@ Der Ansatz des maschinellen Lernens (künstliche Intelligenz) begründet sich in
 * Sammlung weiterer Bilddaten des öffentlichen Raumes aus der Schweiz
 * Vorhersage der Sicherheitsbewertung unter Anwendung des Klassifizierungsmodells
 * Visualisierung der Ergebnisse auf einer interaktiven Karte (diese wird voraussichtlich Ende 2020 verfügbar sein)
+
+### Crowdsourcing
+
+Im Zeitraum von Mai bis Oktober 2020 sammelten wir für die bildbasierte Umfrage für Streetwise rund 36 Tausend Clicks. Im folgenden Abschnitt wird in aller Kürze erläutert, welche Kommunikationsstrategie und -massnahmen verfolgt wurden, um tausende Bildvergleiche von der Bevölkerung einschätzen zu lassen.
+
+Ende April führte das Projektteam Streetwise mit den bereits im Vorfeld angefragten Partnerinstitutionen einen digitalen Event durch, bei dem alle relevanten Infos zum Projekt sowie zu den Massnahmen rund um die Verbreitung des Crowdsourcing vorgestellt wurden.
+
+Um die Umfrage möglichst breit zu streuen, verbreiteten die Projektpartner*innen das Crowdsourcing von Streetwise über ihre Kommunikationskanäle (Newsletters, Social Media, (Fach-)Zeitschriften etc.). Auf Anfrage beteiligten sich folgende Institutionen aktiv an den Verbreitungsmassnahmen: Verein Metropolitanraum Zürich (Auftraggeber), Stadt Kloten, Gemeinde Horw, regionaler Entwicklungsträger LuzernPlus, Höhere Kaderausbildung der Armee (HKA), rawi Kanton Luzern, Hochschule Luzern Soziale Arbeit, Stadt & Kanton Zug, Stadt Sursee, Urban Equipe , Netzwerk Stadt & Landschaft (NSL). Weiter wurde über Social Media und mehreren Ads Kampagnen die Umfrage verbreitet.  
+Während der 6-monatigen Laufzeit des Crowdsourcing sollte so eine organische Reichweite erreicht werden.
