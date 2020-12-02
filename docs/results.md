@@ -5,17 +5,13 @@ slug: results
 
 ---
 
-## Datenanalyse
-
-Unsere Arbeitsgruppe ...
-
 ## Gemeindescan
 
 Nach die erfolgreiche Abschluss unsere erste Crowdsourcing Campaigns, haben wir eine serie von beispielhafte Resultäte zum durchströbern in dem Plattform von Cividi Gemeindescan zur Verfügung hochgeladen. Diese Ergebnisse zeigen relativisierte Wahrnehmung das wir Streetwise Score nennen.
 
-<iframe title="Gemeindescan Luzern" src="https://stage.gemeindescan.ch/de/U97XBA/"></iframe>
-<a class="fullscreen button" href="https://stage.gemeindescan.ch/de/U97XBA/" target="_blank">Vollbild</a>
+<iframe title="Gemeindescan" src="https://sandbox.gemeindescan.ch/de/D3004M/"></iframe>
+<a class="fullscreen button" href="https://sandbox.gemeindescan.ch/de/D3004M/" target="_blank">Vollbild</a>
 
-- 50 categories - https://stage.gemeindescan.ch/de/U97XBA/
-- 5 categories - https://stage.gemeindescan.ch/de/M54F76/
-- tesselation - https://stage.gemeindescan.ch/de/NFFNA7/
+## Datenanalyse
+
+_Weitere Details über die Erfahrungen unserer Arbeitsgruppe erschienen bald hier._
