@@ -4,7 +4,13 @@ date: 2020-11-26
 slug: results
 
 ---
-### Einführung
+
+### Streetwise für deine Gemeinde
+
+Nach die erfolgreiche Abschluss unsere erste Crowdsourcing Campaigns, haben wir eine serie von beispielhafte Resultäte zum durchströbern in dem Plattform [Gemeindescan](https://gemeindescan.ch) von [Cividi GmbH](https://cividi.ch) zur Verfügung hochgeladen. Diese Ergebnisse zeigen relativisierte Wahrnehmung das wir Streetwise Score nennen.
+
+<iframe title="Gemeindescan" src="https://sandbox.gemeindescan.ch/de/D3004M/"></iframe>
+<a class="fullscreen button" href="https://sandbox.gemeindescan.ch/de/D3004M/">Vollbild</a>
 
 Sogenannte «Heatmaps» werden als Ergebnis des Kooperationsprojekts Streetwise für ausgewählte Gemeinden und Städte generiert. Sie sollen aufzeigen, welche Orte von der Bevölkerung als sicher bzw. unsicher wahrgenommen wird und wo sie sich gerne bzw. weniger gerne aufhalten würde.
 
@@ -12,18 +18,18 @@ U.a. aufgrund der vorhandenen Datengrundlage und den zur Verfügung stehenden Re
 
 Die Karten mit den Einschätzungen zur Sicherheit und Atmosphäre öffentlicher Räume aus Sicht der Bevölkerung werden auf dem Gemeindescan des Projektpartners Cividi GmbH abgebildet.
 
-Folgende Gemeinden und Städte sind demnach mit einer Heatmap auf [www.streetwise.space](http://www.streetwise.space) sowie auf [www.gemeindescan.ch](http://www.gemeindescan.ch) einsehbar:
+Folgende Gemeinden und Städte sind demnach mit einer Heatmap auf [gemeindescan.ch](http://www.gemeindescan.ch) einsehbar:
 
 städtische Gemeinde einer grossen Agglomeration:
 
-* Kloten
+* [Kloten](https://sandbox.gemeindescan.ch/de/ZH97Y/5HBC6U/)
 * Zürich
-* Bergdietikon
+* [Bergdietikon](https://sandbox.gemeindescan.ch/de/ZH97Y/DQ33J6/)
 
 städtische Gemeinde einer mittelgrossen Agglomeration:
 
-* Ebikon
-* Luzern
+* [Ebikon](https://sandbox.gemeindescan.ch/de/ZH97Y/537PVF/)
+* [Luzern](https://sandbox.gemeindescan.ch/de/ZH97Y/HIAL38/)
 * Zug
 
 Städtische Gemeinde einer kleinen oder ausserhalb einer Agglomeration:
@@ -34,7 +40,7 @@ Städtische Gemeinde einer kleinen oder ausserhalb einer Agglomeration:
 
 periurbane Gemeinde hoher Dichte:
 
-* Rümlang
+* [Rümlang](https://sandbox.gemeindescan.ch/de/ZH97Y/IUIBKF/)
 
 periurbane Gemeinde mittlerer Dichte:
 
@@ -43,21 +49,12 @@ periurbane Gemeinde mittlerer Dichte:
 
 ländliche Zentrumsgemeinde:
 
-* Beromünster
+* [Beromünster](https://sandbox.gemeindescan.ch/de/ZH97Y/KZNN75/)
 
 ländliche zentral gelegene Gemeinde:
 
-* Ingenbohl
-
-### Streetwise für deine Gemeinde
-
-### Gemeindescan
-
-Nach die erfolgreiche Abschluss unsere erste Crowdsourcing Campaigns, haben wir eine serie von beispielhafte Resultäte zum durchströbern in dem Plattform von Cividi Gemeindescan zur Verfügung hochgeladen. Diese Ergebnisse zeigen relativisierte Wahrnehmung das wir Streetwise Score nennen.
-
-<iframe title="Gemeindescan" src="https://sandbox.gemeindescan.ch/de/D3004M/"></iframe>
-<a class="fullscreen button" href="https://sandbox.gemeindescan.ch/de/D3004M/" target="_blank">Vollbild</a>
+* [Ingenbohl](https://sandbox.gemeindescan.ch/de/ZH97Y/17B6HB/)
 
 ## Datenanalyse
 
-_Weitere Details über die Erfahrungen unserer Arbeitsgruppe erschienen bald hier._
+Weitere Details über die Erfahrungen unserer Arbeitsgruppe befinden sich in der [Streetwise Data Wiki](https://github.com/Streetwise/streetwise-data/wiki), und erschienen bald auf Deutsch in Kurzform hier.
