@@ -9,14 +9,16 @@ slug: results
 
 Nach die erfolgreiche Abschluss unsere erste Crowdsourcing Campaigns, haben wir eine serie von beispielhafte Resultäte zum durchströbern in dem Plattform [Gemeindescan](https://gemeindescan.ch) von [Cividi GmbH](https://cividi.ch) zur Verfügung hochgeladen. Diese Ergebnisse zeigen relativisierte Wahrnehmung das wir Streetwise Score nennen.
 
-<iframe title="Gemeindescan" src="https://sandbox.gemeindescan.ch/de/D3004M/"></iframe>
-<a class="fullscreen button" href="https://sandbox.gemeindescan.ch/de/D3004M/">Vollbild</a>
-
 Sogenannte «Heatmaps» werden als Ergebnis des Kooperationsprojekts Streetwise für ausgewählte Gemeinden und Städte generiert. Sie sollen aufzeigen, welche Orte von der Bevölkerung als sicher bzw. unsicher wahrgenommen wird und wo sie sich gerne bzw. weniger gerne aufhalten würde.
 
 U.a. aufgrund der vorhandenen Datengrundlage und den zur Verfügung stehenden Ressourcen kann lediglich eine Auswahl von Gemeinden und Städten innerhalb des Metropolitanraumes Zürich im Rahmen dieses Projekts dargestellt werden. Bei der Auswahl standen Kriterien wie «Gemeindetypologie» (gemäss BfS) für die Vielfalt, vorhandene «Datengrundlage» und die Abdeckung unserer Projektpartner*innen im Mittelpunkt.
 
 Die Karten mit den Einschätzungen zur Sicherheit und Atmosphäre öffentlicher Räume aus Sicht der Bevölkerung werden auf dem Gemeindescan des Projektpartners Cividi GmbH abgebildet.
+
+## Vorschau
+
+<iframe title="Gemeindescan" src="https://sandbox.gemeindescan.ch/de/ZH97Y/HIAL38/"></iframe>
+<a class="fullscreen button" href="https://sandbox.gemeindescan.ch/de/ZH97Y/HIAL38/">Vollbild</a>
 
 Folgende Gemeinden und Städte sind demnach mit einer Heatmap auf [gemeindescan.ch](http://www.gemeindescan.ch) einsehbar:
 
