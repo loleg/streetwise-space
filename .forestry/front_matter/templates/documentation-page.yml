@@ -16,3 +16,4 @@ fields:
   label: Slug
 pages:
 - docs/disclaimer.md
+- docs/q-a.md
