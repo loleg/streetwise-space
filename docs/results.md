@@ -58,4 +58,4 @@ ländliche zentral gelegene Gemeinde:
 
 ## Datenanalyse
 
-Weitere Details über die Erfahrungen unserer Arbeitsgruppe befinden sich in der [Streetwise Data Wiki](https://github.com/Streetwise/streetwise-data/wiki), und erscheinen bald auf Deutsch in Kurzform hier.
+Weitere Details über die Erfahrungen unserer Arbeitsgruppe befinden sich in der [Streetwise Data Wiki](https://github.com/Streetwise/streetwise-data/wiki).
