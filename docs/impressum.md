@@ -6,7 +6,7 @@ slug: impressum
 ---
 Für diese Webseite ist die Arbeitsgemeinschaft des Projekts Streetwise verantwortlich.
 
-**✉ [info@streetwise.space](mailto:info@streetwise.space)**
+**✉** [**info@streetwise.space**](mailto:info@streetwise.space)
 <pre>  
 Streetwise c/o  
 IVO Innenentwicklung AG  
@@ -24,6 +24,9 @@ Oleg Lavrovsky
 
 **Human-IST Institute Uni Fribourg**  
 Edy Portmann, Jhonny Pincay Nieves, Moreno Colombo
+
+**Cividi GmbH**  
+Thorben Westerhuys, Karolína Bzdušek 
 
 ## Disclaimer
 
