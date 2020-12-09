@@ -4,6 +4,10 @@
       "section": "Erkenntnisse",
       "topics": [
         {
+          "title": "Q & A",
+          "slug": "q-and-a"
+        },
+        {
           "title": "Ergebnisse",
           "slug": "results"
         }
