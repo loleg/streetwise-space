@@ -6,7 +6,7 @@ slug: results
 ---
 ### Streetwise für deine Gemeinde
 
-Nach erfolgreichen Abschluss unserer Crowdsourcing Kampagne, stellen wir eine Serie von beispielhaften Resultaten auf der Plattform [Gemeindescan](https://gemeindescan.ch) von [Cividi GmbH](https://cividi.ch) zur Verfügung. Diese Ergebnisse zeigen die relativierte Wahrnehmung der Bevölkerung im Hinblick auf Sicherheit und Atmosphäre auf. Die dargestellten Werte nennen wir "Streetwise Score".
+Nach erfolgreichen Abschluss unserer Crowdsourcing Kampagne, stellen wir die erarbeiteten Resultate auf der Plattform [Gemeindescan](https://gemeindescan.ch) von [Cividi GmbH](https://cividi.ch) zur Verfügung. Diese Ergebnisse zeigen die relativierte Wahrnehmung der Bevölkerung im Hinblick auf ihre gefühlte Sicherheit und Atmosphäre im öffentlichen Raum auf. Die dargestellten Werte nennen wir "Streetwise Score".
 
 Die hier ersichtlichen Ergebniskarten werden als Ergebnis des Kooperationsprojekts Streetwise für ausgewählte Gemeinden und Städte generiert. Sie sollen aufzeigen, welche Orte von der Bevölkerung als sicher bzw. unsicher wahrgenommen wird und wo sie sich gerne bzw. weniger gerne aufhalten würde.
 
@@ -19,7 +19,7 @@ Die Karten mit den Einschätzungen zur Sicherheit und Atmosphäre öffentlicher 
 <iframe title="Gemeindescan" src="https://sandbox.gemeindescan.ch/de/ZH97Y/HIAL38/"></iframe>
 <a class="fullscreen button" href="https://sandbox.gemeindescan.ch/de/ZH97Y/HIAL38/">Vollbild</a>
 
-Folgende Gemeinden und Städte sind demnach mit einer Heatmap auf [gemeindescan.ch](http://www.gemeindescan.ch) einsehbar:
+Folgende Gemeinden und Städte sind demnach mit den aufbereiteten Projektergebnissen auf [gemeindescan.ch](http://www.gemeindescan.ch) einsehbar:
 
 städtische Gemeinde einer grossen Agglomeration:
 
