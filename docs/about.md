@@ -1,5 +1,5 @@
 ---
-title: Hintergrundinfos zu Streetwise
+title: Hintergrundinfos
 date: 2020-04-13
 slug: about
 
