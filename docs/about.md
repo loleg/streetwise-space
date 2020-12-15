@@ -26,8 +26,6 @@ In unserem Projekt fragen wir zunächst nach der Einschätzung von räumlichen S
 
 ### Maschinelles Lernen
 
-Im Crowdsourcing Streetwise arbeiten wir mit maschinellem Lernen. Das heisst, wir versuchen, Computer so zu trainieren, dass diese – gleich wie wir – räumliche Situationen in Bezug auf eine bestimmte Fragestellung bewerten können. Vorerst fokussieren wir uns bei Streetwise auf die Fragestellung generellen Sicherheitsempfindens und später auch in Bezug auf die Aufenthaltsqualität im öffentlichen Raum. Die Basis für den Lernprozess der Computer setzen wir Menschen: Vorgenommene Bilderbewertungen von einer hohen Anzahl und unterschiedlichen Bewohner*innen der Schweiz  («Crowd» = Masse) stellen die wertvolle Referenz für den Computer-Algorithmus dar, damit dieser überhaupt «weiss», wie er bestimmte Bilder bewerten soll.
-
 Der Ansatz des maschinellen Lernens (künstliche Intelligenz) begründet sich in zwei Phasen: das «Lernen» und die sogenannte «Klassifizierung».
 
 **Lernen:**
@@ -40,7 +38,7 @@ Der Ansatz des maschinellen Lernens (künstliche Intelligenz) begründet sich in
 
 * Sammlung weiterer Bilddaten des öffentlichen Raumes aus der Schweiz
 * Vorhersage der Sicherheitsbewertung unter Anwendung des Klassifizierungsmodells
-* Visualisierung der Ergebnisse auf einer interaktiven Karte (diese wird voraussichtlich Ende 2020 verfügbar sein)
+* Visualisierung der Ergebnisse auf einer interaktiven Karte
 
 ### Crowdsourcing
 
@@ -48,5 +46,5 @@ Im Zeitraum von Mai bis Oktober 2020 sammelten wir für die bildbasierte Umfrage
 
 Ende April führte das Projektteam Streetwise mit den bereits im Vorfeld angefragten Partnerinstitutionen einen digitalen Event durch, bei dem alle relevanten Infos zum Projekt sowie zu den Massnahmen rund um die Verbreitung des Crowdsourcing vorgestellt wurden.
 
-Um die Umfrage möglichst breit zu streuen, verbreiteten die Projektpartner*innen das Crowdsourcing von Streetwise über ihre Kommunikationskanäle (Newsletters, Social Media, (Fach-)Zeitschriften etc.). Auf Anfrage beteiligten sich folgende Institutionen aktiv an den Verbreitungsmassnahmen: Verein Metropolitanraum Zürich (Auftraggeber), Stadt Kloten, Gemeinde Horw, regionaler Entwicklungsträger LuzernPlus, Höhere Kaderausbildung der Armee (HKA), rawi Kanton Luzern, Hochschule Luzern Soziale Arbeit, Stadt & Kanton Zug, Stadt Sursee, Urban Equipe , Netzwerk Stadt & Landschaft (NSL). Weiter wurde über Social Media und mehreren Ads Kampagnen die Umfrage verbreitet.  
+Um die Umfrage möglichst breit zu streuen, verbreiteten die Projektpartner*innen das Crowdsourcing von Streetwise über ihre Kommunikationskanäle (Newsletters, Social Media, (Fach-)Zeitschriften etc.). Auf Anfrage beteiligten sich folgende Institutionen aktiv an den Verbreitungsmassnahmen: Verein Metropolitanraum Zürich (Auftraggeber), Stadt Kloten, Gemeinde Horw, regionaler Entwicklungsträger LuzernPlus, Höhere Kaderausbildung der Armee (HKA), rawi Kanton Luzern, Hochschule Luzern Soziale Arbeit, Stadt & Kanton Zug, Stadt Sursee, Urban Equipe , Netzwerk Stadt & Landschaft (NSL). Weiter wurde über Social Media und mehreren Ads Kampagnen auf Social Media die Umfrage verbreitet.  
 Während der 6-monatigen Laufzeit des Crowdsourcing sollte so eine organische Reichweite erreicht werden.
