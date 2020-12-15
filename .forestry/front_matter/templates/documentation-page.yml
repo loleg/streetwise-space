@@ -16,4 +16,5 @@ fields:
   label: Slug
 pages:
 - docs/disclaimer.md
+- docs/machine-learning.md
 - docs/q-a.md
