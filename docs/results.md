@@ -14,10 +14,7 @@ U.a. aufgrund der vorhandenen Datengrundlage und den zur Verfügung stehenden Re
 
 Die Karten mit den Einschätzungen zur Sicherheit und Atmosphäre öffentlicher Räume aus Sicht der Bevölkerung werden auf dem Gemeindescan des Projektpartners Cividi GmbH abgebildet.
 
-## Vorschau
-
-<iframe title="Gemeindescan" src="https://sandbox.gemeindescan.ch/de/ZH97Y/HIAL38/"></iframe>
-<a class="fullscreen button" href="https://sandbox.gemeindescan.ch/de/ZH97Y/HIAL38/">Vollbild</a>
+## Ersten Blick
 
 Folgende Gemeinden und Städte sind demnach mit den aufbereiteten Projektergebnissen auf [gemeindescan.ch](http://www.gemeindescan.ch) einsehbar:
 
