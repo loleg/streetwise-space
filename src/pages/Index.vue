@@ -24,9 +24,8 @@
         <img src="/media/grant-ritchie-ii37vagPGgY-unsplash-1240px.jpg" />
       </video>-->
       <!-- <img src="/media/vid_20200624_094348.jpg" width="100%" height="auto"> -->
-      
-      <iframe title="Gemeindescan" src="https://sandbox.gemeindescan.ch/de/ZH97Y/HIAL38/"></iframe>
-      <a class="fullscreen button" href="https://sandbox.gemeindescan.ch/de/ZH97Y/HIAL38/">Vollbild</a>
+
+      <Browser />
 
       <nav>
         <!-- <Shortcut link="https://streetwise-app.ch/" text="Zur Umfrage" icon="play-icon" /> -->
@@ -77,10 +76,12 @@ query {
 
 <script>
 import Shortcut from '~/components/Shortcut.vue'
+import Browser from '~/components/Browser.vue'
 
 export default {
   components: {
-    Shortcut
+    Shortcut,
+    Browser
   },
   data() {
     return {}
