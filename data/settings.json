@@ -1,41 +1,14 @@
 {
   "sidebar": [
     {
-      "section": "Erkenntnisse",
-      "topics": [
-        {
-          "title": "Ergebnisse",
-          "slug": "results"
-        },
-        {
-          "title": "Q & A",
-          "slug": "q-and-a"
-        }
-      ]
-    },
-    {
       "section": "Handbuch",
       "topics": [
-        {
-          "title": "Einführung",
-          "slug": "start"
-        },
-        {
-          "title": "Hintergrund",
-          "slug": "about"
-        },
-        {
-          "title": "Wettbewerb",
-          "slug": "disclaimer"
-        },
-        {
-          "title": "Rechtliches",
-          "slug": "legal"
-        },
-        {
-          "title": "Impressum",
-          "slug": "impressum"
-        }
+        { "title": "Hintergrund", "slug": "about" },
+        { "title": "Wettbewerb", "slug": "disclaimer" },
+        { "title": "Ergebnisse", "slug": "results" },
+        { "title": "Q & A", "slug": "q-and-a" },
+        { "title": "Rechtliches", "slug": "legal" },
+        { "title": "Impressum", "slug": "impressum" }
       ]
     }
   ]
