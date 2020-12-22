@@ -25,7 +25,7 @@
       </video>-->
       <!-- <img src="/media/vid_20200624_094348.jpg" width="100%" height="auto"> -->
 
-      <Browser />
+      <Gemeindescan />
 
       <nav>
         <!-- <Shortcut link="https://streetwise-app.ch/" text="Zur Umfrage" icon="play-icon" /> -->
@@ -76,12 +76,12 @@ query {
 
 <script>
 import Shortcut from '~/components/Shortcut.vue'
-import Browser from '~/components/Browser.vue'
+import Gemeindescan from '~/components/Gemeindescan.vue'
 
 export default {
   components: {
     Shortcut,
-    Browser
+    Gemeindescan
   },
   data() {
     return {}

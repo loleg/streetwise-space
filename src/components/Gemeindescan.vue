@@ -1,15 +1,20 @@
 <template>
-    <aside class="browser" :class="{'browser--open' : this.browserOpen}">
-      <nav>
-        <ul>
+  <div class="gemeindescan" :class="{'browser--open' : this.browserOpen}">
+    <a class="title" href="https://gemeindescan.ch" target="_blank">Gemeindescan</a>
+    <div class="container">
+      <nav class="sidebar">
+        <ul class="snapshotlist">
           <li class="section" v-for="node in sections" :key="node.title">
-            <h3 class="section-title">{{node.title}}</h3>
+            <a :href="node.url" @click="navigateTo(node, $event)">{{node.title}}</a>
           </li>
         </ul>
       </nav>
-      <iframe :title="frameTitle" :src="frameSrc"></iframe>
-      <a class="fullscreen button" :href="frameSrc" target="_blank">Vollbild</a>
-    </aside>
+      <div class="main">
+        <iframe :title="frameTitle" :src="frameSrc"></iframe>
+        <a class="fullscreen button" :href="frameSrc" target="_blank">Vollbild</a>
+      </div>
+    </div>
+  </div>
 </template>
 
 
@@ -25,8 +30,26 @@ export default {
       browserOpen: true,
       sections: [
         {
-          'title': 'Gemeindescan',
+          'title': 'Kloten',
+          'url': 'https://sandbox.gemeindescan.ch/de/ZH97Y/5HBC6U/'
+        },{
+          'title': 'Bergdietikon',
+          'url': 'https://sandbox.gemeindescan.ch/de/ZH97Y/DQ33J6/'
+        },{
+          'title': 'Ebikon',
+          'url': 'https://sandbox.gemeindescan.ch/de/ZH97Y/537PVF/'
+        },{
+          'title': 'Luzern',
           'url': 'https://sandbox.gemeindescan.ch/de/ZH97Y/HIAL38/'
+        },{
+          'title': 'Rümlang',
+          'url': 'https://sandbox.gemeindescan.ch/de/ZH97Y/IUIBKF/'
+        },{
+          'title': 'Beromünster',
+          'url': 'https://sandbox.gemeindescan.ch/de/ZH97Y/KZNN75/'
+        },{
+          'title': 'Ingenbohl',
+          'url': 'https://sandbox.gemeindescan.ch/de/ZH97Y/17B6HB/'
         }
       ],
       frameTitle: "",
@@ -34,6 +57,11 @@ export default {
     }
   },
   methods: {
+    navigateTo(node, e) {
+      e.preventDefault()
+      this.frameSrc = node.url
+      this.frameTitle = node.title
+    },
     checkAnchors(slug, item) {
       if (slug == item) {
         return true
@@ -76,6 +104,66 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+
+.title {
+  display: block;
+  background: url(../assets/img/gemeindescan-logo.svg) no-repeat;
+  background-size: cover;
+  width: 200px;
+  height: 50px;
+  font-size: 0px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+iframe {
+  width: 100%;
+  height: 600px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+
+  .sidebar {
+    width: 20%;
+    height: 100%;
+    background: none;
+    min-width: 300px;
+  }
+
+  .main {
+    width: 80%;
+  }
+}
+
+ul.snapshotlist, .snapshotlist li {
+  margin: 0px; padding: 0px;
+  list-style: none;
+}
+
+.snapshotlist .section {
+  background-color: #f8f8f8;
+  border-radius: 4px;
+  padding: 20px 15px;
+  margin: 1px;
+  overflow: hidden;
+
+  &:hover {
+    background-color: #d0d0d0;
+    a {
+      color: #000;
+    }
+  }
+
+  a {
+    color: #555;
+    text-decoration: none;
+  }
+}
+
+/*
 .sidebar {
   transition: background .15s ease-in-out, transform .15s ease-in-out, border-color .15s linear;
   padding: 100px 30px 30px;
@@ -181,4 +269,5 @@ ul {
   bottom: 0;
   left: 0;
 }
+*/
 </style>
