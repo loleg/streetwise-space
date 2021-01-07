@@ -12,3 +12,5 @@ Ende April 2020 führte das Projektteam Streetwise mit den bereits im Vorfeld an
 
 Um die Umfrage möglichst breit zu streuen, verbreiteten die Projektpartner*innen das Crowdsourcing von Streetwise über ihre Kommunikationskanäle (Newsletters, Social Media, (Fach-)Zeitschriften etc.). Auf Anfrage beteiligten sich folgende Institutionen aktiv an den Verbreitungsmassnahmen: Verein Metropolitanraum Zürich (Auftraggeber), Stadt Kloten, Gemeinde Horw, regionaler Entwicklungsträger LuzernPlus, Höhere Kaderausbildung der Armee (HKA), rawi Kanton Luzern, Hochschule Luzern Soziale Arbeit, Stadt & Kanton Zug, Stadt Sursee, Urban Equipe , Netzwerk Stadt & Landschaft (NSL). Weiter wurde über Social Media und mehreren Ads Kampagnen auf Social Media die Umfrage verbreitet.  
 Während der 6-monatigen Laufzeit des Crowdsourcing sollte so eine organische Reichweite erreicht werden.
+
+![](/media/streetwise-ytcount-3-16x9-900px.jpg)
