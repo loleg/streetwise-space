@@ -10,7 +10,7 @@ Nach erfolgreichen Abschluss unserer Crowdsourcing Kampagne, stellen wir die era
 
 Die hier ersichtlichen Ergebniskarten werden als Ergebnis des Kooperationsprojekts Streetwise für ausgewählte Gemeinden und Städte generiert. Sie sollen aufzeigen, welche Orte von der Bevölkerung als sicher bzw. unsicher wahrgenommen wird und wo sie sich gerne bzw. weniger gerne aufhalten würde.
 
-U.a. aufgrund der vorhandenen Datengrundlage und den zur Verfügung stehenden Ressourcen kann lediglich eine Auswahl von Gemeinden und Städten innerhalb des Metropolitanraumes Zürich im Rahmen dieses Projekts dargestellt werden. Bei der Auswahl standen Kriterien wie «Gemeindetypologie» (gemäss BfS) für die Vielfalt, vorhandene «Datengrundlage» und die Abdeckung unserer Projektpartner*innen im Mittelpunkt.
+U.a. aufgrund der vorhandenen Datengrundlage und den zur Verfügung stehenden Ressourcen kann lediglich eine Auswahl von Gemeinden und Städten innerhalb des Metropolitanraumes Zürich im Rahmen dieses Projekts dargestellt werden. Bei der Auswahl standen Kriterien wie «Gemeindetypologie» (gemäss [BfS](https://www.bfs.admin.ch/bfs/de/home/statistiken/querschnittsthemen/raeumliche-analysen/raeumliche-gliederungen/raeumliche-typologien.assetdetail.2543279.html "BfS")) für die Vielfalt, vorhandene «Datengrundlage» und die Abdeckung unserer Projektpartner*innen im Mittelpunkt.
 
 Die Karten mit den Einschätzungen zur Sicherheit und Atmosphäre öffentlicher Räume aus Sicht der Bevölkerung werden auf dem Gemeindescan des Projektpartners Cividi GmbH abgebildet.
 
