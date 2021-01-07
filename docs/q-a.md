@@ -4,12 +4,11 @@ date: 2020-12-09
 slug: q-and-a
 
 ---
-
 ## Fragenforum
 
 **Warum werden nicht alle Gemeinden im Metropolitanraum Zürich dargestellt?**
 
-Im Projekt Streetwise haben wir uns auf die Datenbasis von Mapillary gestützt. Da Mapillary selbst vom Crowdsourcing lebt, d.h. von den Bilddaten, die alle Interessierten hochladen können, sind nicht überall gleich viele Daten vorhanden. Daten sind grundsätzlich vorhanden, jedoch muss je nach Quelle (bspw. Google Streetview) dafür bezahlt werden. Der Kauf von Bilddaten war aufgrund des begrenzten Projektbudgets nicht möglich.
+Im Projekt Streetwise haben wir uns auf die Datenbasis von Mapillary gestützt. Da Mapillary selbst vom Crowdsourcing lebt, d.h. von den Bilddaten, die alle Interessierten hochladen können, sind nicht überall gleich viele Daten vorhanden. Daten existieren grundsätzlich, jedoch muss je nach Quelle (bspw. Google Streetview) dafür bezahlt werden. Der Kauf von Bilddaten war aufgrund des begrenzten Projektbudgets nicht möglich.
 
 **Was ist der Mehrwert von Streetwise für Städte und Gemeinden?**
 
