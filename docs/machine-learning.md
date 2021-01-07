@@ -11,3 +11,5 @@ Um eine Karte zu generieren, die Bewertungen der wahrgenommenen Sicherheit und A
 Bilder aus verschiedenen Städten und Gemeinden werden also gesammelt. Jedes Bild wird mit mindestens 30 anderen Bildern aus derselben Stadt oder Gemeinde mit diesen neuronalen Netzwerken verglichen. Bei jedem Vergleich steigt die Punktzahl des "Gewinner"-Bildes (das als sicherer bzw. mit besserer Atmosphäre wahrgenommen wird), während die Punktzahl des anderen Bildes sinkt (unter Verwendung des Trueskill-Score-Algorithmus).
 
 Wenn der Vergleich aller Bilder einer Stadt bzw. einer Gemeinde abgeschlossen ist, wird eine Liste der Orte mit ihrer entsprechenden Sicherheits- bzw. Atmosphärebewertung erstellt. Indem jedes Bild und die entsprechende Punktzahl mit den Koordinaten verknüpft wird, an denen das Bild aufgenommen wurde, können dann die Sicherheits- und Atmosphären-Einschätzungen auf einer Karte visualisiert werden.
+
+![](/bild1.png)
