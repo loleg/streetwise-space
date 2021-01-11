@@ -4,20 +4,20 @@
       "section": "Handbuch",
       "topics": [
         {
-          "title": "Machine Learning",
-          "slug": "machine-learning"
-        },
-        {
-          "title": "Crowdsourcing",
-          "slug": "crowdsourcing"
-        },
-        {
           "title": "Hintergrund",
           "slug": "about"
         },
         {
           "title": "Wettbewerb",
           "slug": "disclaimer"
+        },
+        {
+          "title": "Crowdsourcing",
+          "slug": "crowdsourcing"
+        },
+        {
+          "title": "Machine Learning",
+          "slug": "machine-learning"
         },
         {
           "title": "Ergebnisse",
