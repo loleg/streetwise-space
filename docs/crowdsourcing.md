@@ -1,6 +1,6 @@
 ---
 title: Crowdsourcing
-date: 
+date: 2021-01-11
 slug: crowdsourcing
 
 ---
