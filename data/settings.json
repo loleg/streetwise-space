@@ -3,12 +3,34 @@
     {
       "section": "Handbuch",
       "topics": [
-        { "title": "Hintergrund", "slug": "about" },
-        { "title": "Wettbewerb", "slug": "disclaimer" },
-        { "title": "Ergebnisse", "slug": "results" },
-        { "title": "Q & A", "slug": "q-and-a" },
-        { "title": "Rechtliches", "slug": "legal" },
-        { "title": "Impressum", "slug": "impressum" }
+        {
+          "title": "Crowdsourcing",
+          "slug": "crowdsourcing"
+        },
+        {
+          "title": "Hintergrund",
+          "slug": "about"
+        },
+        {
+          "title": "Wettbewerb",
+          "slug": "disclaimer"
+        },
+        {
+          "title": "Ergebnisse",
+          "slug": "results"
+        },
+        {
+          "title": "Q & A",
+          "slug": "q-and-a"
+        },
+        {
+          "title": "Rechtliches",
+          "slug": "legal"
+        },
+        {
+          "title": "Impressum",
+          "slug": "impressum"
+        }
       ]
     }
   ]
