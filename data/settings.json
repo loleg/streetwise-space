@@ -4,6 +4,10 @@
       "section": "Handbuch",
       "topics": [
         {
+          "title": "Machine Learning",
+          "slug": "machine-learning"
+        },
+        {
           "title": "Crowdsourcing",
           "slug": "crowdsourcing"
         },
