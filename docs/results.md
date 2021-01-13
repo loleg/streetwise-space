@@ -16,15 +16,15 @@ Die Karten mit den Einschätzungen zur Sicherheit und Atmosphäre öffentlicher 
 
 ## Ein erster Einblick
 
-Folgende Gemeinden und Städte sind demnach mit den aufbereiteten Projektergebnissen auf [gemeindescan.ch](http://www.gemeindescan.ch) einsehbar:
+Folgende Gemeinden und Städte sind demnach mit den aufbereiteten Projektergebnissen auf unseren Homepage [Streetwise.space](https://streetwise.space) und auf [Gemeindescan.ch](http://www.gemeindescan.ch) einsehbar:
 
-städtische Gemeinde einer grossen Agglomeration:
+Städtische Gemeinde einer grossen Agglomeration:
 
 * [Kloten](https://sandbox.gemeindescan.ch/de/ZH97Y/5HBC6U/)
 * Zürich
 * [Bergdietikon](https://sandbox.gemeindescan.ch/de/ZH97Y/DQ33J6/)
 
-städtische Gemeinde einer mittelgrossen Agglomeration:
+Städtische Gemeinde einer mittelgrossen Agglomeration:
 
 * [Ebikon](https://sandbox.gemeindescan.ch/de/ZH97Y/537PVF/)
 * [Luzern](https://sandbox.gemeindescan.ch/de/ZH97Y/HIAL38/)
@@ -36,20 +36,20 @@ Städtische Gemeinde einer kleinen oder ausserhalb einer Agglomeration:
 * Wattwil
 * Frauenfeld
 
-periurbane Gemeinde hoher Dichte:
+Periurbane Gemeinde hoher Dichte:
 
 * [Rümlang](https://sandbox.gemeindescan.ch/de/ZH97Y/IUIBKF/)
 
-periurbane Gemeinde mittlerer Dichte:
+Periurbane Gemeinde mittlerer Dichte:
 
 * Walchwil
 * Beringen
 
-ländliche Zentrumsgemeinde:
+Ländliche Zentrumsgemeinde:
 
 * [Beromünster](https://sandbox.gemeindescan.ch/de/ZH97Y/KZNN75/)
 
-ländliche zentral gelegene Gemeinde:
+Ländliche zentral gelegene Gemeinde:
 
 * [Ingenbohl](https://sandbox.gemeindescan.ch/de/ZH97Y/17B6HB/)
 

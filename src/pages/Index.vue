@@ -21,16 +21,50 @@
       <!--<video width="100%" autoplay muted>
         <source src="/media/take1.mp4" type="video/mpeg">
         <source src="/media/take1.webm" type="video/webm">
-        <img src="/media/grant-ritchie-ii37vagPGgY-unsplash-1240px.jpg" />
       </video>-->
       <!-- <img src="/media/vid_20200624_094348.jpg" width="100%" height="auto"> -->
 
-      <Gemeindescan />
+      <nav class="campaigns">
+        <a @click="showCampaign('atmosphere')" class="atmosphere" href="#atmosphere">
+          <div>
+            <b>Atmosphäre</b>
+          </div>
+        </a>
+        <a @click="showCampaign('safety')" class="safety" href="#safety">
+          <div>
+            <b>Sicherheit</b>
+          </div>
+        </a>
+      </nav>
+      <modal name="atmosphere" disable-backdrop>
+        <div class="basic-modal">
+          <h1 class="title">Atmosphäre</h1>
+          <Gemeindescan campaign="atmosphere" />
+          <p>Eine Erklärung zu diese Ergebnisse gibt es
+            <a href="/results" @click="closeCampaign">in unserem Handbuch</a>.
+          </p>
+          <center>
+            <button class="button" type="button" @click="closeCampaign">Zurück</button>
+          </center>
+        </div>
+      </modal>
+      <modal name="safety" disable-backdrop>
+        <div class="basic-modal">
+          <h1 class="title">Sicherheit</h1>
+          <Gemeindescan campaign="safety" />
+          <p>Eine Erklärung zu diese Ergebnisse gibt es
+            <a href="/results" @click="closeCampaign">in unserem Handbuch</a>.
+          </p>
+          <center>
+            <button class="button" type="button" @click="closeCampaign">Zurück</button>
+          </center>
+        </div>
+      </modal>
 
-      <nav>
+      <nav class="shortcuts">
         <!-- <Shortcut link="https://streetwise-app.ch/" text="Zur Umfrage" icon="play-icon" /> -->
         <Shortcut link="/results" text="Ergebnisse" icon="pie-chart-icon" />
-        <Shortcut link="/start" text="Hintergrund" icon="help-circle-icon" />
+        <Shortcut link="/about" text="Hintergrund" icon="help-circle-icon" />
         <Shortcut link="/contact" text="Kontakt" icon="mail-icon" />
       </nav>
 
@@ -77,6 +111,7 @@ query {
 <script>
 import Shortcut from '~/components/Shortcut.vue'
 import Gemeindescan from '~/components/Gemeindescan.vue'
+import 'vue-thin-modal/dist/vue-thin-modal.css'
 
 export default {
   components: {
@@ -84,7 +119,16 @@ export default {
     Gemeindescan
   },
   data() {
-    return {}
+    return {
+    }
+  },
+  methods: {
+    showCampaign(name) {
+      this.$modal.push(name)
+    },
+    closeCampaign() {
+      this.$modal.pop()
+    }
   },
   metaInfo() {
     let content = this.$page.content.edges[0].node
@@ -211,6 +255,38 @@ nav {
 
   @include respond-above(sm) {
     flex-direction: row;
+  }
+}
+
+nav.campaigns {
+  a {
+    width: 100%;
+    min-height: 512px;
+    border: 10px solid white;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  a:hover {
+    border: 10px solid blue;
+  }
+  .safety {
+    background-image: url('/media/streetwise-ytcount-3-square-512.jpg');
+  }
+  .atmosphere {
+    background-image: url('/media/img3938-square-512.jpg');
+  }
+  div {
+    display: inline-block;
+    margin: 10px; padding: 10px 16px;
+    background-color: white;
+  }
+}
+
+.modal-content {
+  width: 95%;
+
+  button {
+    cursor: pointer;
   }
 }
 

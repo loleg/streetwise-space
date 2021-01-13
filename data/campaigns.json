@@ -1,0 +1,32 @@
+{
+  "atmosphere": [
+    {
+      "title": "Bad Zurzach",
+      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/8XX8OJ/"
+    }
+  ],
+  "safety": [
+    {
+      "title": "Kloten",
+      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/5HBC6U/"
+    },{
+      "title": "Bergdietikon",
+      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/DQ33J6/"
+    },{
+      "title": "Ebikon",
+      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/537PVF/"
+    },{
+      "title": "Luzern",
+      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/HIAL38/"
+    },{
+      "title": "Rümlang",
+      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/IUIBKF/"
+    },{
+      "title": "Beromünster",
+      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/KZNN75/"
+    },{
+      "title": "Ingenbohl",
+      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/17B6HB/"
+    }
+  ]
+}

@@ -19,39 +19,19 @@
 
 
 <script>
+const campaigns = require('/data/campaigns.json');
 
 export default {
-  components: {
-  },
-  watch: {
+  props: {
+    campaign: {
+      type: String,
+      required: true
+    }
   },
   data () {
     return {
       browserOpen: true,
-      sections: [
-        {
-          'title': 'Kloten',
-          'url': 'https://sandbox.gemeindescan.ch/de/ZH97Y/5HBC6U/'
-        },{
-          'title': 'Bergdietikon',
-          'url': 'https://sandbox.gemeindescan.ch/de/ZH97Y/DQ33J6/'
-        },{
-          'title': 'Ebikon',
-          'url': 'https://sandbox.gemeindescan.ch/de/ZH97Y/537PVF/'
-        },{
-          'title': 'Luzern',
-          'url': 'https://sandbox.gemeindescan.ch/de/ZH97Y/HIAL38/'
-        },{
-          'title': 'Rümlang',
-          'url': 'https://sandbox.gemeindescan.ch/de/ZH97Y/IUIBKF/'
-        },{
-          'title': 'Beromünster',
-          'url': 'https://sandbox.gemeindescan.ch/de/ZH97Y/KZNN75/'
-        },{
-          'title': 'Ingenbohl',
-          'url': 'https://sandbox.gemeindescan.ch/de/ZH97Y/17B6HB/'
-        }
-      ],
+      sections: [],
       frameTitle: "",
       frameSrc: ""
     }
@@ -96,7 +76,9 @@ export default {
   beforeMount () {
   },
   mounted() {
-    console.log(this.sections);
+    // console.log('Loading: ' + this.campaign);
+    this.sections = campaigns[this.campaign];
+    // console.log(this.sections);
     this.frameTitle = this.sections[0]['title'];
     this.frameSrc = this.sections[0]['url'];
   }

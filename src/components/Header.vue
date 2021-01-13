@@ -2,6 +2,9 @@
   <header class="header" :class="{'header--scrolled' : pageScrolled}">
     <Logo :color="logoColor" />
     <nav class="nav">
+      <g-link to="/results">Ergebnisse</g-link>
+      <g-link to="/about">Hintergrund</g-link>
+      <g-link to="/contact">Kontakt</g-link>
       <MenuToggle v-if="menuToggle" />
     </nav>
     <SocialIcons :color="logoColor" />
@@ -93,5 +96,20 @@ export default {
 
 nav {
   display: flex;
+
+  a {
+    margin: 0 2em;
+    text-decoration: none;
+    color: black;
+    font-weight: normal;
+
+    &:hover {
+      color: #10c186;
+    }
+  }
+}
+
+@media screen and (max-width: 800px) {
+  nav { display: none; }
 }
 </style>
