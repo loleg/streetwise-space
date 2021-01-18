@@ -10,7 +10,7 @@ Räume haben einen positiven oder negativen Einfluss auf uns – sie verhalten s
 
 Durch Anklicken eines Bildes geben diese jeweils eine Bewertung ab, womit ein Algorithmus trainiert wird. Durch eine sehr grosse Anzahl von Klicks lernt das System, Bilder selbstständig zu bewerten. So können schliesslich beliebige räumliche Situationen automatisch bewertet werden. Es entsteht die erste Karte der räumlichen Qualität in der Schweiz.
 
-### Kernideen
+## Kernideen
 
 **Es gibt keine neutralen Räume**: Entweder sie helfen oder sie schaden uns. So klar bringt die Architekturkritikerin und Autorin [Sara Williams Goldhagen](http://sarahwilliamsgoldhagen.com/) auf den Punkt, welche Bedeutung räumliche Qualitäten für unser Zusammenleben haben. Für das Wohlbefinden oder für die Wahrnehmung von Sicherheit. Die [Broken-Windows Theorie](https://de.wikipedia.org/wiki/Broken-Windows-Theorie) lehrt uns, dass ein direkter Zusammenhang zwischen der Atmosphäre – etwa gemessen am baulichen Zustand von Stadtgebieten –und Kriminalität besteht. Und Kevin Lynch belegt in seinem epochalen Buch “[The Image of the City](http://architectureandurbanism.blogspot.com/2010/09/kevin-lynch-image-of-city-1960.html)”, dass es kollektive Bilder der Stadt gibt, dass ein öffentliches oder allgemeines “Image” von Orten besteht. Und dass wir dieses erfassen können.
 

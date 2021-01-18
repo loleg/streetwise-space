@@ -2,19 +2,43 @@
   "atmosphere": [
     {
       "title": "Bad Zurzach",
-      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/8XX8OJ/"
+      "url": "https://stage.gemeindescan.ch/1SXMXG/"
+    },{
+      "title": "Frauenfeld",
+      "url": "https://stage.gemeindescan.ch/FOEUGW/"
+    },{
+      "title": "Zürich",
+      "url": "https://stage.gemeindescan.ch/AJHPUV/"
     }
   ],
   "safety": [
     {
-      "title": "Kloten",
-      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/5HBC6U/"
+      "title": "Bad Zurzach",
+      "url": "https://stage.gemeindescan.ch/12WEY6/"
     },{
       "title": "Bergdietikon",
       "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/DQ33J6/"
     },{
+      "title": "Beringen",
+      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/DQ33J6/"
+    },{
+      "title": "Beromünster",
+      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/KZNN75/"
+    },{
       "title": "Ebikon",
       "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/537PVF/"
+    },{
+      "title": "Ermatigen",
+      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/DQ33J6/"
+    },{
+      "title": "Frauenfeld",
+      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/DQ33J6/"
+    },{
+      "title": "Ingenbohl",
+      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/17B6HB/"
+    },{
+      "title": "Kloten",
+      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/5HBC6U/"
     },{
       "title": "Luzern",
       "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/HIAL38/"
@@ -22,11 +46,17 @@
       "title": "Rümlang",
       "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/IUIBKF/"
     },{
-      "title": "Beromünster",
-      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/KZNN75/"
+      "title": "Sursee",
+      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/IUIBKF/"
     },{
-      "title": "Ingenbohl",
-      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/17B6HB/"
+      "title": "Walchwil",
+      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/IUIBKF/"
+    },{
+      "title": "Zug",
+      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/IUIBKF/"
+    },{
+      "title": "Zürich",
+      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/IUIBKF/"
     }
   ]
 }

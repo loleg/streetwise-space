@@ -19,7 +19,7 @@
 
 
 <script>
-const campaigns = require('/data/campaigns.json');
+const campaigns = require('../../data/campaigns.json');
 
 export default {
   props: {
@@ -123,6 +123,11 @@ iframe {
 ul.snapshotlist, .snapshotlist li {
   margin: 0px; padding: 0px;
   list-style: none;
+}
+
+.snapshotlist {
+  max-height: 600px;
+  overflow-y: auto;
 }
 
 .snapshotlist .section {

@@ -4,7 +4,7 @@ date: 2020-11-26
 slug: results
 
 ---
-### Streetwise für deine Gemeinde
+## Streetwise für deine Gemeinde
 
 Nach erfolgreichen Abschluss unserer Crowdsourcing Kampagne, stellen wir die erarbeiteten Resultate auf der Plattform [Gemeindescan](https://gemeindescan.ch) von [Cividi GmbH](https://cividi.ch) zur Verfügung. Diese Ergebnisse zeigen die relativierte Wahrnehmung der Bevölkerung im Hinblick auf ihre gefühlte Sicherheit und Atmosphäre im öffentlichen Raum auf. Die dargestellten Werte nennen wir "Streetwise Score".
 

@@ -38,10 +38,11 @@
       </nav>
       <modal name="atmosphere" disable-backdrop>
         <div class="basic-modal">
-          <h1 class="title">Atmosphäre</h1>
+          <button class="corner" type="button" @click="closeCampaign">&#10006;</button>
+          <h1 class="title">Streetwise Score Atmosphäre</h1>
           <Gemeindescan campaign="atmosphere" />
-          <p>Eine Erklärung zu diese Ergebnisse gibt es
-            <a href="/results" @click="closeCampaign">in unserem Handbuch</a>.
+          <p>weiterführende Info zu den Ergebnissen
+            <a href="/results" @click="closeCampaign">findest du hier</a>
           </p>
           <center>
             <button class="button" type="button" @click="closeCampaign">Zurück</button>
@@ -50,10 +51,11 @@
       </modal>
       <modal name="safety" disable-backdrop>
         <div class="basic-modal">
-          <h1 class="title">Sicherheit</h1>
+          <button class="corner" type="button" @click="closeCampaign">&#10006;</button>
+          <h1 class="title">Streetwise Score Sicherheit</h1>
           <Gemeindescan campaign="safety" />
-          <p>Eine Erklärung zu diese Ergebnisse gibt es
-            <a href="/results" @click="closeCampaign">in unserem Handbuch</a>.
+          <p>weiterführende Info zu den Ergebnissen
+            <a href="/results" @click="closeCampaign">findest du hier</a>
           </p>
           <center>
             <button class="button" type="button" @click="closeCampaign">Zurück</button>
@@ -282,11 +284,35 @@ nav.campaigns {
   }
 }
 
+button.corner {
+  border: none; background: none;
+  position: absolute;
+  top: 0px; right: 0px;
+  padding: 20px;
+  margin: 0 10px;
+  font-size: 30px;
+  color: #999;
+
+  &:hover {
+    color: #000;
+  }
+}
+
 .modal-content {
   width: 95%;
 
+  h1 {
+    margin: 0px;
+    position: absolute;
+    margin-left: 355px;
+    font-size: 40px;
+  }
+  p {
+    text-align: center;
+  }
   button {
     cursor: pointer;
+    margin: 0px;
   }
 }
 
