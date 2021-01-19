@@ -1,62 +1,33 @@
-{
-  "atmosphere": [
-    {
-      "title": "Bad Zurzach",
-      "url": "https://stage.gemeindescan.ch/1SXMXG/"
-    },{
-      "title": "Frauenfeld",
-      "url": "https://stage.gemeindescan.ch/FOEUGW/"
-    },{
-      "title": "Zürich",
-      "url": "https://stage.gemeindescan.ch/AJHPUV/"
-    }
+{ "atmosphere": [
+    { "title": "Kloten", "url": "#" },
+    { "title": "Zürich", "url": "https://stage.gemeindescan.ch/AJHPUV/" },
+    { "title": "Bergdietikon", "url": "https://stage.gemeindescan.ch/GAGBXA//" },
+    { "title": "Ebikon", "url": "#" },
+    { "title": "Luzern", "url": "#" },
+    { "title": "Zug", "url": "#" },
+    { "title": "Sursee", "url": "#" },
+    { "title": "Wattwil", "url": "#" },
+    { "title": "Frauenfeld", "url": "https://stage.gemeindescan.ch/FOEUGW/" },
+    { "title": "Rümlang", "url": "#" },
+    { "title": "Walchwil", "url": "#" },
+    { "title": "Beringen", "url": "#" },
+    { "title": "Beromünster", "url": "#" },
+    { "title": "Ingenbohl", "url": "#" }
   ],
   "safety": [
-    {
-      "title": "Bad Zurzach",
-      "url": "https://stage.gemeindescan.ch/12WEY6/"
-    },{
-      "title": "Bergdietikon",
-      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/DQ33J6/"
-    },{
-      "title": "Beringen",
-      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/DQ33J6/"
-    },{
-      "title": "Beromünster",
-      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/KZNN75/"
-    },{
-      "title": "Ebikon",
-      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/537PVF/"
-    },{
-      "title": "Ermatigen",
-      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/DQ33J6/"
-    },{
-      "title": "Frauenfeld",
-      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/DQ33J6/"
-    },{
-      "title": "Ingenbohl",
-      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/17B6HB/"
-    },{
-      "title": "Kloten",
-      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/5HBC6U/"
-    },{
-      "title": "Luzern",
-      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/HIAL38/"
-    },{
-      "title": "Rümlang",
-      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/IUIBKF/"
-    },{
-      "title": "Sursee",
-      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/IUIBKF/"
-    },{
-      "title": "Walchwil",
-      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/IUIBKF/"
-    },{
-      "title": "Zug",
-      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/IUIBKF/"
-    },{
-      "title": "Zürich",
-      "url": "https://sandbox.gemeindescan.ch/de/ZH97Y/IUIBKF/"
-    }
+    { "title": "Kloten", "url": "#" },
+    { "title": "Zürich", "url": "#" },
+    { "title": "Bergdietikon", "url": "#" },
+    { "title": "Ebikon", "url": "#" },
+    { "title": "Luzern", "url": "#" },
+    { "title": "Zug", "url": "#" },
+    { "title": "Sursee", "url": "#" },
+    { "title": "Wattwil", "url": "#" },
+    { "title": "Frauenfeld", "url": "#" },
+    { "title": "Rümlang", "url": "#" },
+    { "title": "Walchwil", "url": "#" },
+    { "title": "Beringen", "url": "#" },
+    { "title": "Beromünster", "url": "#" },
+    { "title": "Ingenbohl", "url": "#" }
   ]
 }
