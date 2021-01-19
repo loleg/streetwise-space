@@ -192,12 +192,12 @@ export default {
    -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
    box-shadow: rgba(0,0,0,1) 0 1px 0;
    text-shadow: rgba(0,0,0,.4) 0 1px 0;
-   color: white;
+   color: black;
    font-size: 24px;
    font-family: Helvetica, Arial, Sans-Serif;
    text-decoration: none;
    vertical-align: middle;
-   }
+ }
 .button:hover {
    border-top-color: #1f7857;
    background: #1f7857;
