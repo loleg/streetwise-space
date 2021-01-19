@@ -20,14 +20,14 @@ Folgende Gemeinden und Städte sind demnach mit den aufbereiteten Projektergebni
 
 Städtische Gemeinde einer grossen Agglomeration:
 
-* [Kloten](https://sandbox.gemeindescan.ch/de/ZH97Y/5HBC6U/)
+* Kloten
 * Zürich
-* [Bergdietikon](https://sandbox.gemeindescan.ch/de/ZH97Y/DQ33J6/)
+* Bergdietikon
 
 Städtische Gemeinde einer mittelgrossen Agglomeration:
 
-* [Ebikon](https://sandbox.gemeindescan.ch/de/ZH97Y/537PVF/)
-* [Luzern](https://sandbox.gemeindescan.ch/de/ZH97Y/HIAL38/)
+* Ebikon
+* Luzern
 * Zug
 
 Städtische Gemeinde einer kleinen oder ausserhalb einer Agglomeration:
@@ -38,7 +38,7 @@ Städtische Gemeinde einer kleinen oder ausserhalb einer Agglomeration:
 
 Periurbane Gemeinde hoher Dichte:
 
-* [Rümlang](https://sandbox.gemeindescan.ch/de/ZH97Y/IUIBKF/)
+* Rümlang
 
 Periurbane Gemeinde mittlerer Dichte:
 
@@ -47,12 +47,18 @@ Periurbane Gemeinde mittlerer Dichte:
 
 Ländliche Zentrumsgemeinde:
 
-* [Beromünster](https://sandbox.gemeindescan.ch/de/ZH97Y/KZNN75/)
+* Beromünster
 
 Ländliche zentral gelegene Gemeinde:
 
-* [Ingenbohl](https://sandbox.gemeindescan.ch/de/ZH97Y/17B6HB/)
+* Ingenbohl
+
+![](media/results.jpg)
+
+💡 Gesamtergebnis jetzt anschauen auf [streetwise.space](/)
 
 ## Datenanalyse
 
 Weitere Details über die Erfahrungen unserer Arbeitsgruppe befinden sich in der [Streetwise Data Wiki](https://github.com/Streetwise/streetwise-data/wiki).
+
+![](https://raw.githubusercontent.com/Streetwise/streetwise-data/master/network_arch.jpg)

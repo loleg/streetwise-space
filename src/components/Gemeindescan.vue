@@ -14,7 +14,12 @@
       </nav>
       <div class="main">
         <iframe :title="frameTitle" :src="frameSrc"></iframe>
-        <a class="fullscreen button" :href="frameSrc" target="_blank">Vollbild</a>
+        <a class="fullscreen button"
+          :href="frameSrc" target="_blank">
+          Vollbild</a>
+        <div class="location">
+          {{ frameTitle }}
+        </div>
       </div>
     </div>
   </div>
@@ -104,6 +109,16 @@ export default {
 iframe {
   width: 100%;
   height: 600px;
+}
+
+.fullscreen {
+  float: left;
+}
+
+.location {
+  float: right;
+  font-size: 125%;
+  font-weight: bold;
 }
 
 .container {
