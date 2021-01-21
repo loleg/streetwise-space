@@ -24,13 +24,13 @@
       </video>-->
       <!-- <img src="/media/vid_20200624_094348.jpg" width="100%" height="auto"> -->
 
-      <nav class="campaigns">
-        <a @click="showCampaign('atmosphere')" class="atmosphere" href="#atmosphere">
+      <nav id="campaigns">
+        <a @click="showCampaign('atmosphere')" class="atmosphere" href="#atmosphere" title="Ergebnisse öffnen">
           <div>
             <b>Atmosphäre</b>
           </div>
         </a>
-        <a @click="showCampaign('safety')" class="safety" href="#safety">
+        <a @click="showCampaign('safety')" class="safety" href="#safety" title="Ergebnisse öffnen">
           <div>
             <b>Sicherheit</b>
           </div>
@@ -182,6 +182,10 @@ export default {
   margin-bottom: 3em;
 }
 
+.markdown:last-child {
+  margin-bottom: 0px;
+}
+
 blockquote {
   border: 1px solid #999;
   background: #f0f0f0;
@@ -230,7 +234,8 @@ nav {
   }
 }
 
-nav.campaigns {
+#campaigns {
+  padding-top: 2em;
   a {
     width: 100%;
     min-height: 512px;
