@@ -10,13 +10,11 @@
 </template>
 
 <script>
-import { PlayIcon, HelpCircleIcon, MailIcon } from 'vue-feather-icons'
+import { PlayIcon, HelpCircleIcon, PieChartIcon, MailIcon } from 'vue-feather-icons'
 
 export default {
   components: {
-    PlayIcon,
-    HelpCircleIcon,
-    MailIcon
+    PlayIcon, HelpCircleIcon, PieChartIcon, MailIcon
   },
   props: {
     link: {

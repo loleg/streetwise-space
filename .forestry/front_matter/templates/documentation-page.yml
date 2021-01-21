@@ -15,4 +15,7 @@ fields:
   name: slug
   label: Slug
 pages:
+- docs/crowdsourcing.md
 - docs/disclaimer.md
+- docs/machine-learning.md
+- docs/q-a.md

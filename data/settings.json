@@ -4,16 +4,28 @@
       "section": "Handbuch",
       "topics": [
         {
-          "title": "Einführung",
-          "slug": "start"
-        },
-        {
           "title": "Hintergrund",
           "slug": "about"
         },
         {
           "title": "Wettbewerb",
           "slug": "disclaimer"
+        },
+        {
+          "title": "Crowdsourcing",
+          "slug": "crowdsourcing"
+        },
+        {
+          "title": "Machine Learning",
+          "slug": "machine-learning"
+        },
+        {
+          "title": "Ergebnisse",
+          "slug": "results"
+        },
+        {
+          "title": "Q & A",
+          "slug": "q-and-a"
         },
         {
           "title": "Rechtliches",

@@ -1,16 +1,16 @@
 ---
-title: Wettbewerb iPhone 11
+title: Wettbewerb
 date: 2020-04-13
 slug: disclaimer
 
 ---
 ## Gewinner steht fest!
 
-Die Verlosung des iPhone 11 findet unter Ausschluss der Öffentlichkeit statt.
+Die Verlosung des iPhone 11 fand unter Ausschluss der Öffentlichkeit statt.
 
 ## Teilnahmebedingungen
 
-Die Teilnahme am Wettbewerb ist zwischen dem 11. Mai 2020 und dem 31. Oktober 2020 möglich. Teilnahmen werden ausschliesslich per Online-Umfrageformular auf der Streetwise-Website akzeptiert. Pro Person ist nur eine Teilnahme zulässig. Mehrfachteilnahmen am Wettbewerb werden nicht akzeptiert.
+Die Teilnahme am Wettbewerb war zwischen dem 11. Mai 2020 und dem 31. Oktober 2020 möglich. Teilnahmen werden ausschliesslich per Online-Umfrageformular auf der Streetwise-Website akzeptiert. Pro Person ist nur eine Teilnahme zulässig. Mehrfachteilnahmen am Wettbewerb werden nicht akzeptiert.
 
 Teilnahmeberechtigt sind alle in der Schweiz wohnhaften natürlichen Personen ab 14 Jahren. Mitarbeitende der IVO Innenentwicklung AG und Swisscom AG sowie deren Angehörige sind von der Teilnahme ausgeschlossen. Die zur Teilnahme erforderlichen Daten werden nicht an Swisscom weitergegeben.
 
