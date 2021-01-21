@@ -1,8 +1,8 @@
 <template>
   <div class="gemeindescan" :class="{'browser--open' : this.browserOpen}">
-    <a class="title" href="https://gemeindescan.ch" target="_blank">Gemeindescan</a>
+    <a class="title" @click="sidebarOpen = true">Gemeindescan</a>
     <div class="container">
-      <nav class="sidebar">
+      <nav class="sidebar" :class="{'sidebar--open' : this.sidebarOpen}">
         <ul class="snapshotlist">
           <a :href="node.url" @click="navigateTo(node, $event)"
               v-for="node in sections" :key="node.title">
@@ -12,7 +12,7 @@
           </a>
         </ul>
       </nav>
-      <div class="main">
+      <div class="main" :class="{'wideScreen' : this.wideScreen}">
         <iframe :title="frameTitle" :src="frameSrc"></iframe>
         <a class="fullscreen button"
           :href="frameSrc" target="_blank">
@@ -38,50 +38,33 @@ export default {
   },
   data () {
     return {
+      wideScreen: true,
+      sidebarOpen: true,
       browserOpen: true,
       sections: [],
       frameTitle: "",
-      frameSrc: "",
+      frameSrc: ""
     }
   },
   methods: {
     navigateTo(node, e) {
       e.preventDefault()
+      if (!this.sidebarOpen) {
+        return this.sidebarOpen = true
+      }
+      // Navigate to selected scan
       this.frameSrc = node.url
       this.frameTitle = node.title
-    },
-    checkAnchors(slug, item) {
-      if (slug == item) {
-        return true
-      }
-    },
-    stateFromSize: function() {
+      // Close the sidebar again if needed
       if (window.getComputedStyle(document.body, ':before').content == '"small"') {
-        this.$store.commit('closeSidebar')
-      } else {
-        this.$store.commit('openSidebar')
+        this.sidebarOpen = false
       }
-    },
-    sidebarScroll: function() {
-      let mainNavLinks = document.querySelectorAll('.topic.active + ul .sub-topic')
-      let fromTop = window.scrollY
-
-      mainNavLinks.forEach(link => {
-        let section = document.querySelector(link.hash)
-        let allCurrent = document.querySelectorAll('.current'), i
-
-        if (section.offsetTop <= fromTop) {
-          for (i = 0; i < allCurrent.length; ++i) {
-            allCurrent[i].classList.remove('current')
-          }
-          link.classList.add('current')
-        } else {
-          link.classList.remove('current')
-        }
-      })
     }
   },
   beforeMount () {
+    if (window.getComputedStyle(document.body, ':before').content == '"small"') {
+      this.wideScreen = false
+    }
   },
   mounted() {
     // console.log('Loading: ' + this.campaign);
@@ -106,6 +89,30 @@ export default {
   margin-bottom: 20px;
 }
 
+.sidebar {
+  height: 600px;
+  background: white;
+  min-width: 300px;
+  position: fixed;
+  transition: background .15s ease-in-out, transform .15s ease-in-out, border-color .15s linear;
+  z-index: 9;
+  will-change: transform;
+  transform: translateX(-300px);
+  opacity: 0;
+  border-right: 1px solid transparent;
+  overflow: auto;
+
+  @include respond-above(sm) {
+    transform: translateX(0);
+    opacity: 1;
+  }
+
+  &--open {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
 iframe {
   width: 100%;
   height: 600px;
@@ -126,15 +133,12 @@ iframe {
   flex-direction: row;
   width: 100%;
 
-  .sidebar {
-    width: 20%;
-    height: 100%;
-    background: none;
-    min-width: 300px;
-  }
-
   .main {
-    width: 80%;
+    width: 100%;
+
+    &.wideScreen {
+      margin-left: 300px;
+    }
   }
 }
 

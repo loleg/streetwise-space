@@ -275,7 +275,11 @@ button.corner {
     margin: 0px;
     position: absolute;
     margin-left: 355px;
-    font-size: 40px;
+    font-size: 30px;
+
+    @include respond-above(md) {
+      font-size: 40px;
+    }
   }
   p {
     text-align: center;
