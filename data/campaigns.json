@@ -15,6 +15,22 @@
     { "title": "Ingenbohl", "url": "https://gemeindescan.ch/EUWE0Y/" }
   ],
   "safety": [
+    { "title": "Kloten", "url": "https://stage.gemeindescan.ch/2JLHG2/" },
+    { "title": "Zürich", "url": "https://stage.gemeindescan.ch/8OGHLD/" },
+    { "title": "Bergdietikon", "url": "https://stage.gemeindescan.ch/0JM8HZ/" },
+    { "title": "Ebikon", "url": "https://stage.gemeindescan.ch/YAT9NI/" },
+    { "title": "Luzern", "url": "https://stage.gemeindescan.ch/79RY9J/" },
+    { "title": "Zug", "url": "https://stage.gemeindescan.ch/N715AB/" },
+    { "title": "Sursee", "url": "https://stage.gemeindescan.ch/7TXMLI/" },
+    { "title": "Wattwil", "url": "https://stage.gemeindescan.ch/S3VSC0/" },
+    { "title": "Frauenfeld", "url": "https://stage.gemeindescan.ch/CNC7IR/" },
+    { "title": "Rümlang", "url": "https://stage.gemeindescan.ch/117QLV/" },
+    { "title": "Walchwil", "url": "https://stage.gemeindescan.ch/BIJ4IA/" },
+    { "title": "Beringen", "url": "https://stage.gemeindescan.ch/OXWBJB/" },
+    { "title": "Beromünster", "url": "https://stage.gemeindescan.ch/44NQ0H/" },
+    { "title": "Ingenbohl", "url": "https://stage.gemeindescan.ch/ZQ4XHZ/" }
+  ],
+  "safety_prod": [
     { "title": "Kloten", "url": "https://gemeindescan.ch/I9ZII1/" },
     { "title": "Zürich", "url": "https://gemeindescan.ch/S6BCZ7/" },
     { "title": "Bergdietikon", "url": "https://gemeindescan.ch/BM9LNE/" },
@@ -28,7 +44,6 @@
     { "title": "Walchwil", "url": "https://gemeindescan.ch/VGMZ8Y/" },
     { "title": "Beringen", "url": "https://gemeindescan.ch/JDYYWC/" },
     { "title": "Beromünster", "url": "https://gemeindescan.ch/DDHL36/" },
-    { "title": "Ingenbohl", "url": "https://gemeindescan.ch/ZXGTQL/" },
-    { "title": "Sandbox", "url": "https://sandbox.gemeindescan.ch/de/NDZROS/" }
+    { "title": "Ingenbohl", "url": "https://gemeindescan.ch/ZXGTQL/" }
   ]
 }
