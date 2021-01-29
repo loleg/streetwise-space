@@ -53,9 +53,9 @@ Ländliche zentral gelegene Gemeinde:
 
 * Ingenbohl
 
-![](media/results.jpg)
+[![](media/results.jpg)](/#campaigns)
 
-💡 Gesamtergebnis jetzt anschauen auf [streetwise.space](/)
+💡 Gesamtergebnis jetzt anschauen auf [streetwise.space](/#campaigns)
 
 ## Datenanalyse
 
