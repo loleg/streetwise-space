@@ -14,7 +14,7 @@
     { "title": "Beromünster", "url": "https://gemeindescan.ch/SD8R3E/" },
     { "title": "Ingenbohl", "url": "https://gemeindescan.ch/EUWE0Y/" }
   ],
-  "safety": [
+  "safety_stage": [
     { "title": "Kloten", "url": "https://stage.gemeindescan.ch/2JLHG2/" },
     { "title": "Zürich", "url": "https://stage.gemeindescan.ch/8OGHLD/" },
     { "title": "Bergdietikon", "url": "https://stage.gemeindescan.ch/0JM8HZ/" },
@@ -30,7 +30,7 @@
     { "title": "Beromünster", "url": "https://stage.gemeindescan.ch/44NQ0H/" },
     { "title": "Ingenbohl", "url": "https://stage.gemeindescan.ch/ZQ4XHZ/" }
   ],
-  "safety_prod": [
+  "safety": [
     { "title": "Kloten", "url": "https://gemeindescan.ch/I9ZII1/" },
     { "title": "Zürich", "url": "https://gemeindescan.ch/S6BCZ7/" },
     { "title": "Bergdietikon", "url": "https://gemeindescan.ch/BM9LNE/" },
