@@ -1,6 +1,9 @@
 <template>
   <div class="gemeindescan" :class="{'browser--open' : this.browserOpen}">
-    <a class="title" @click="sidebarOpen = true">Gemeindescan</a>
+    <div class="title">Gemeindescan</div>
+    <button class="verticaltab" title="Gemeinden"
+      v-show="!this.wideScreen && !this.sidebarOpen"
+      @click="this.toggleSidebar">...</button>
     <div class="container">
       <nav class="sidebar" :class="{'sidebar--open' : this.sidebarOpen}">
         <ul class="snapshotlist">
@@ -50,16 +53,18 @@ export default {
     navigateTo(node, e) {
       e.preventDefault()
       if (!this.sidebarOpen) {
-        return this.sidebarOpen = true
+        return this.toggleSidebar()
       }
       // Navigate to selected scan
       this.frameSrc = node.url
       this.frameTitle = node.title
       // Close the sidebar again if on mobile
-      if (!this.isWideScreen()) {
-        this.sidebarOpen = false
-        console.log('Closing sidebar')
+      if (!this.isWideScreen() && this.sidebarOpen) {
+        this.toggleSidebar()
       }
+    },
+    toggleSidebar() {
+      this.sidebarOpen = !this.sidebarOpen
     },
     isWideScreen() {
       this.wideScreen = !(window.getComputedStyle(document.body, ':before').content == '"small"')
@@ -93,6 +98,24 @@ export default {
   font-size: 0px;
   margin-left: 10px;
   margin-bottom: 20px;
+}
+
+.verticaltab {
+  opacity: 0.7;
+  display: block;
+  font-size: 0px;
+  background: repeating-linear-gradient(45deg, #bbb, #bbb 10px, #eee 10px, #eee 20px);
+  width: 26px;
+  height: 200px;
+  position: absolute;
+  top: 100px;
+  left: 0px;
+  border: 1px solid #aaa;
+  border-radius: 6px;
+  border-left: 0px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  box-shadow: 0px 3px 3px #eee;
 }
 
 .sidebar {
@@ -150,8 +173,7 @@ iframe {
 }
 
 ul.snapshotlist, .snapshotlist li {
-  margin: 0px; padding: 0px;
-  list-style: none;
+  margin: 0px; padding: 0px; list-style: none;
 }
 
 .snapshotlist {
@@ -161,26 +183,27 @@ ul.snapshotlist, .snapshotlist li {
   a {
     color: #555;
     text-decoration: none;
+
+    &:nth-child(even) li { background-color: #e4e4e4; }
+    &:nth-child(odd)  li { background-color: #f0f0f0; }
+  }
+
+  li {
+    border-radius: 4px;
+    padding: 20px 15px;
+    margin: 1px;
+    overflow: hidden;
+
+    &:hover {
+      background-color: #10c186;
+    }
+
+    &.active {
+      background-color: #d0d0d0;
+      font-weight: bold;
+      border-top-right-radius: 0px;
+      border-bottom-right-radius: 0px;
+    }
   }
 }
-
-.snapshotlist li {
-  background-color: #f8f8f8;
-  border-radius: 4px;
-  padding: 20px 15px;
-  margin: 1px;
-  overflow: hidden;
-
-  &:hover {
-    background-color: #10c186;
-  }
-
-  &.active {
-    background-color: #d0d0d0;
-    font-weight: bold;
-    border-top-right-radius: 0px;
-    border-bottom-right-radius: 0px;
-  }
-}
-
 </style>
