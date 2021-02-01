@@ -66,8 +66,14 @@ export default {
     toggleSidebar() {
       this.sidebarOpen = !this.sidebarOpen
     },
+    windowSize() {
+      let windowWidth = window.innerWidth
+      if (windowWidth < 550) return 'xs'
+      if (windowWidth > 549 && windowWidth < 1200) return 'md'
+      if (windowWidth > 1199) return 'lg'
+    },
     isWideScreen() {
-      this.wideScreen = !(window.getComputedStyle(document.body, ':before').content == '"small"')
+      this.wideScreen = (this.windowSize() !== 'xs')
       return this.wideScreen
     }
   },
@@ -83,6 +89,10 @@ export default {
       this.frameTitle = this.sections[0]['title'];
       this.frameSrc = this.sections[0]['url'];
     }
+    window.addEventListener('resize', this.isWideScreen)
+  },
+  unmounted() {
+    window.removeEventListener('resize', this.isWideScreen)
   }
 }
 </script>
