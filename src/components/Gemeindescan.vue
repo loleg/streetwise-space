@@ -55,23 +55,29 @@ export default {
       // Navigate to selected scan
       this.frameSrc = node.url
       this.frameTitle = node.title
-      // Close the sidebar again if needed
-      if (window.getComputedStyle(document.body, ':before').content == '"small"') {
+      // Close the sidebar again if on mobile
+      if (!this.isWideScreen()) {
         this.sidebarOpen = false
+        console.log('Closing sidebar')
       }
+    },
+    isWideScreen() {
+      this.wideScreen = !(window.getComputedStyle(document.body, ':before').content == '"small"')
+      return this.wideScreen
     }
   },
   beforeMount () {
-    if (window.getComputedStyle(document.body, ':before').content == '"small"') {
-      this.wideScreen = false
-    }
+    this.isWideScreen()
   },
   mounted() {
     // console.log('Loading: ' + this.campaign);
     this.sections = campaigns[this.campaign];
     // console.log(this.sections);
-    this.frameTitle = this.sections[0]['title'];
-    this.frameSrc = this.sections[0]['url'];
+    if (this.wideScreen) {
+      // Navigate to first scan on desktop
+      this.frameTitle = this.sections[0]['title'];
+      this.frameSrc = this.sections[0]['url'];
+    }
   }
 }
 </script>
@@ -138,6 +144,7 @@ iframe {
 
     &.wideScreen {
       margin-left: 300px;
+      overflow: hidden;
     }
   }
 }
