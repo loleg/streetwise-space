@@ -99,6 +99,12 @@ export default {
 
 <style lang="scss" scoped>
 
+.gemeindescan {
+  // Stretch window slightly
+  margin-left: -20px;
+  margin-right: -20px;
+}
+
 .title {
   display: block;
   background: url(../assets/img/gemeindescan-logo.svg) no-repeat;
@@ -115,7 +121,7 @@ export default {
   display: block;
   font-size: 0px;
   background: repeating-linear-gradient(45deg, #bbb, #bbb 10px, #eee 10px, #eee 20px);
-  width: 26px;
+  width: 23px;
   height: 200px;
   position: absolute;
   top: 100px;
@@ -125,7 +131,7 @@ export default {
   border-left: 0px;
   border-top-left-radius: 0px;
   border-bottom-left-radius: 0px;
-  box-shadow: 0px 3px 3px #eee;
+  box-shadow: 0px 3px 3px rgba(0,0,0,0.2);
 }
 
 .sidebar {
