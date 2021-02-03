@@ -4,6 +4,11 @@ date: 2020-11-26
 slug: results
 
 ---
+
+[![](media/results.jpg)](/#campaigns)
+
+💡 _Gesamtergebnis jetzt anschauen auf [streetwise.space](/#campaigns)_
+
 ## Streetwise für deine Gemeinde
 
 Nach erfolgreichen Abschluss unserer Crowdsourcing Kampagne, stellen wir die erarbeiteten Resultate auf der Plattform [Gemeindescan](https://gemeindescan.ch) von [Cividi GmbH](https://cividi.ch) zur Verfügung. Diese Ergebnisse zeigen die relativierte Wahrnehmung der Bevölkerung im Hinblick auf ihre gefühlte Sicherheit und Atmosphäre im öffentlichen Raum auf. Die dargestellten Werte nennen wir "Streetwise Score".
@@ -18,44 +23,42 @@ Die Karten mit den Einschätzungen zur Sicherheit und Atmosphäre öffentlicher 
 
 Folgende Gemeinden und Städte sind demnach mit den aufbereiteten Projektergebnissen auf unseren Homepage [Streetwise.space](https://streetwise.space) durch publikation auf [Gemeindescan.ch](http://www.gemeindescan.ch) einsehbar:
 
-[![](media/results.jpg)](/#campaigns)
-
-💡 _Gesamtergebnis jetzt anschauen auf [streetwise.space](/#campaigns)_
-
-Städtische Gemeinde einer grossen Agglomeration:
+##### Städtische Gemeinde einer grossen Agglomeration:
 
 * Kloten
 * Zürich
 * Bergdietikon
 
-Städtische Gemeinde einer mittelgrossen Agglomeration:
+##### Städtische Gemeinde einer mittelgrossen Agglomeration:
 
 * Ebikon
 * Luzern
 * Zug
 
-Städtische Gemeinde einer kleinen oder ausserhalb einer Agglomeration:
+##### Städtische Gemeinde einer kleinen oder ausserhalb einer Agglomeration:
 
 * Sursee
 * Wattwil
 * Frauenfeld
 
-Periurbane Gemeinde hoher Dichte:
+##### Periurbane Gemeinde hoher Dichte:
 
 * Rümlang
 
-Periurbane Gemeinde mittlerer Dichte:
+##### Periurbane Gemeinde mittlerer Dichte:
 
 * Walchwil
 * Beringen
 
-Ländliche Zentrumsgemeinde:
+##### Ländliche Zentrumsgemeinde:
 
 * Beromünster
 
-Ländliche zentral gelegene Gemeinde:
+##### Ländliche zentral gelegene Gemeinde:
 
 * Ingenbohl
+
+---
 
 💡 _Gesamtergebnis jetzt anschauen auf [streetwise.space](/#campaigns)_
 
