@@ -16,7 +16,11 @@ Die Karten mit den Einschätzungen zur Sicherheit und Atmosphäre öffentlicher 
 
 ## Ein erster Einblick
 
-Folgende Gemeinden und Städte sind demnach mit den aufbereiteten Projektergebnissen auf unseren Homepage [Streetwise.space](https://streetwise.space) und auf [Gemeindescan.ch](http://www.gemeindescan.ch) einsehbar:
+Folgende Gemeinden und Städte sind demnach mit den aufbereiteten Projektergebnissen auf unseren Homepage [Streetwise.space](https://streetwise.space) durch publikation auf [Gemeindescan.ch](http://www.gemeindescan.ch) einsehbar:
+
+[![](media/results.jpg)](/#campaigns)
+
+💡 _Gesamtergebnis jetzt anschauen auf [streetwise.space](/#campaigns)_
 
 Städtische Gemeinde einer grossen Agglomeration:
 
@@ -53,9 +57,7 @@ Ländliche zentral gelegene Gemeinde:
 
 * Ingenbohl
 
-[![](media/results.jpg)](/#campaigns)
-
-💡 Gesamtergebnis jetzt anschauen auf [streetwise.space](/#campaigns)
+💡 _Gesamtergebnis jetzt anschauen auf [streetwise.space](/#campaigns)_
 
 ## Datenanalyse
 

@@ -11,3 +11,5 @@ keywords: Streetwise, Projekt, Kooperationsprojekt, MKZ, Metropolitanraum, Züri
 
 ---
 Zwischen Mai und Oktober 2020 sammelte Streetwise mittels Crowdsourcing 37'000 Clicks, um die Wahrnehmung öffentlicher Räume seitens Bevölkerung zu erfassen. Dabei ging es um das Empfinden von Sicherheit und Atmosphäre. Ein grosses Dankeschön an alle Menschen, die beim Crowdsourcing mitgemacht haben!
+
+Mit Click auf die untenstehenden Kacheln "Atmosphäre" oder "Sicherheit" sind die Ergebniskarten ersichtlich.
