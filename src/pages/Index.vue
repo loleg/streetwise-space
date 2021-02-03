@@ -2,11 +2,14 @@
   <Layout :sidebar="false">
     <div class="content">
 
-      <h1>{{ $page.content.edges[0].node.title }}</h1>
-
-      <p>
-        {{ $page.content.edges[0].node.headline }}
-      </p>
+      <div class="header">
+        <h1 class="title">
+          {{ $page.content.edges[0].node.title }}
+        </h1>
+        <div class="headline">
+          {{ $page.content.edges[0].node.headline }}
+        </div>
+      </div>
 
       <!-- <center>
         <g-link to="https://streetwise-app.ch/" class="button">
@@ -14,9 +17,7 @@
         </g-link>
       </center> -->
 
-      <center>
-        <div class="markdown" v-html="$page.content.edges[0].node.content" />
-      </center>
+      <div class="markdown" v-html="$page.content.edges[0].node.content" />
 
       <!--<video width="100%" autoplay muted>
         <source src="/media/take1.mp4" type="video/mpeg">
@@ -178,8 +179,8 @@ export default {
   vertical-align: middle;
 }
 
-.markdown, nav {
-  margin-bottom: 3em;
+.markdown {
+
 }
 
 .markdown:last-child {
@@ -200,7 +201,7 @@ blockquote {
   }
 }
 
-h1 {
+.header {
 
   @include respond-above(md) {
     max-width: 1000px;
@@ -217,6 +218,10 @@ h1 {
     margin: 1.5em auto 1.5em;
     transform: none;
   }
+
+  .headline {
+    font-size: 90%;
+  }
 }
 
 h2 {
@@ -225,6 +230,7 @@ h2 {
 }
 
 nav {
+  margin-bottom: 3em;
   display: flex;
   justify-content: space-between;
   flex-direction: column;
@@ -235,7 +241,7 @@ nav {
 }
 
 #campaigns {
-  padding-top: 2em;
+  padding-top: 0em;
   a {
     width: 100%;
     min-height: 512px;
